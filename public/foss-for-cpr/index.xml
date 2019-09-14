@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FOSS for Common Pool Resources on Peer Production on the Crypto Commons</title>
+    <link>/foss-for-cpr/</link>
+    <description>Recent content in FOSS for Common Pool Resources on Peer Production on the Crypto Commons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Sep 2019 15:26:15 +0000</lastBuildDate>
+    
+	<atom:link href="/foss-for-cpr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Common Pool Resources</title>
+      <link>/foss-for-cpr/cprs/</link>
+      <pubDate>Tue, 10 Sep 2019 15:26:15 +0000</pubDate>
+      
+      <guid>/foss-for-cpr/cprs/</guid>
+      <description>A Common Pool Resource (CPR) is one which is naturally open for consumption (&amp;ldquo;size or characteristics make it difficult to exclude potential beneficiaries from obtaining benefits of use&amp;rdquo;) but which is subtractable (faces problems of congestion or overuse) - the latter point is the key differentiator to public goods.
+The tragedy of the commons is a term popularized by Garrett Hardin - it refers to a scenario where an open resource is over-exploited because that is in the best interests of individual consumers, while they have no individual imperative to maintain or preserve the resource.</description>
+    </item>
+    
+  </channel>
+</rss>

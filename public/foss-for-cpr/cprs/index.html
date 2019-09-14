@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Common Pool Resources - Peer Production on the Crypto Commons</title>
+<meta name="description" content="Toward a Commons Based Economy">
+<meta name="generator" content="Hugo 0.58.1" />
+<link href="index.xml" rel="alternate" type="application/rss+xml">
+<link rel="canonical" href="/foss-for-cpr/cprs/">
+<link rel="stylesheet" href="css/theme.min.css">
+<script src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+<link rel="stylesheet" href="css/chroma.min.css">
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
+<script src="js/functions.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery.easing@1.4.1/jquery.easing.min.js"></script>
+<script src="js/jquery.backtothetop/jquery.backtothetop.min.js"></script></head>
+<body>
+<div class="container"><header>
+<h1>Peer Production on the Crypto Commons</h1>
+
+ <span class="version">Version 0.5</span>
+<a href="https://github.com/block-commons/" class="github"><i class="fab fa-github"></i></a>
+<p class="description">Toward a Commons Based Economy</p>
+
+</header>
+<div class="menu">
+<nav>
+<ul>
+<li><a href="/">Book</a></li>
+<li><a href="https://www.blockcommons.red">Block Commons</a></li>
+<li><a href="https://twitter.com/blockcommons">Twitter</a></li></ul>
+</nav>
+</div>
+<div class="content-container">
+<main><h1>Common Pool Resources</h1><p>A <a href="https://en.wikipedia.org/wiki/Common-pool_resource">Common Pool Resource</a> (CPR) is one which is naturally open for consumption (&ldquo;size or characteristics make it difficult to exclude potential beneficiaries from obtaining benefits of use&rdquo;) but which is subtractable (faces problems of congestion or overuse) - the latter point is the key differentiator to public goods.</p>
+
+<p>The <a href="https://en.wikipedia.org/wiki/Tragedy_of_the_commons">tragedy of the commons</a> is a term <a href="http://science.sciencemag.org/content/sci/162/3859/1243.full.pdf">popularized by Garrett Hardin</a> - it refers to a scenario where an open resource is over-exploited because that is in the best interests of individual consumers, while they have no individual imperative to maintain or preserve the resource. Where the group of resource consumers fail to act collectively to preserve or maintain the resource, the tragedy of the commons unfolds and that resource is spoiled for all.</p>
+
+<p>Some examples of common pool resources are irrigation waters and grazing land, more recently the concept has been stretched to include global resources such as the environment and free digital software/media.</p>
+
+<p>Ostrom was awarded the Nobel Economic prize for observing that the tragedy of the commons can often be avoided through effective governance of the common pool resource. She identified a number of characteristics of successful governance of CPRs, some of which are relevant to blockchains.</p>
+
+<p>Public blockchains are commons based, in that they are openly accessible and any new node can join the network - but there is a cost to running the network. Bitcoin full nodes must download and process the entire ledger of transactions from Bitcoin&rsquo;s history, and so the data representing an individual transaction has a cost that must be borne by all full nodes into the future. The ability to write to the distributed ledger must be restricted, because otherwise it would be subject to the free rider problem and over-exploited - the blockchain would become so large that high powered servers are required to run full nodes. Bitcoin <a href="https://medium.com/@jimmysong/understanding-SegWit-block-size-fd901b87c9d4">restricts the size of each block to 4mb</a>, to keep the cost of running a full node low and encourage more people to do so. People who wish to make transactions must include fees with their transactions that the miners can collect, miners tend to process the transactions with the highest fees.</p>
+
+<p>Blockchains have one big advantage as compared to other CPRs - they allow for the rules of the network to be reliably enforced by participants at minimal expense. It is Bitcoin&rsquo;s consensus rules that allow order to be imposed on an open permissionless network. The use of transaction fees to solve the problem of deciding who can make transactions using the limited space is a good example of this, it effectively creates an open fee market, which is a robust low-complexity solution. The use of hashpower competition to determine who can produce blocks (and collect rewards) is another good example of a rule which imposes order on open access.</p>
+
+<p>For physical CPRs it is important to define and know the group of participants or users of the resource, and status can be an important factor in resolving disputes. Ostrom found that it was important to ensure that the community can monitor members&rsquo; behavior to ensure that the rules are being followed. Bitcoin must operate in an environment where the identity of participants is in often unknown, so the rules must be enforced in the same way for all participants.</p>
+
+<p>The consensus rules can be enforced but they must cover every eventuality as they are the only recourse for dispute resolution. There is, by design, no way to exclude a particular entity from using the resource, so the set of possible participants includes everyone.</p>
+
+<p>Ostrom calls for an accessible low-cost means of dispute resolution - Bitcoin opts to exclude any dispute resolution function beyond the consensus rules.</p>
+
+<p>Ostrom also finds it important that those affected by the rules can participate in modifying the rules. Bitcoin opts to exclude this function in favor of a socially enforced understanding that the rules cannot be changed in any significant way - while allowing the developers (with miner support) leeway to implement backwards compatible changes (soft forks) that add new rules.</p>
+
+<p>It is the nature of software that makes it impractical to set Bitcoin&rsquo;s rules in stone for eternity. Software must be continually maintained, addressing exploits as they are identified at a minimum. For FOSS projects a lack of updates signals death, as failure to patch weaknesses in dependencies as they are exposed will render the software vulnerable to attack.</p>
+
+<p>The changing of the consensus rules presents a particular problem for public blockchains, as membership or participation is determined exclusively by whether one is following the same rules as the rest of the network. If the rules related to the common pool resource are to change, the rule change must be adopted by all participants at the same time, or they will cease to recognize each other as participants on the same network, reading from and writing to the same distributed ledger.</p>
+<div class="edit-meta">
+Last updated on 10 Sep 2019
+
+
+<br>
+Published on 10 Sep 2019
+<br><a href="https://github.com/blockcommons/blockcommons/edit/master/content/FOSS-for-CPR%5cCPRs.md" class="edit-page"><i class="fas fa-pen-square"></i> Edit on GitHub</a></div><nav class="pagination"><a class="nav nav-prev" href="/foss-for-cpr/" title="FOSS for Common Pool Resources"><i class="fas fa-arrow-left" aria-hidden="true"></i> Prev - FOSS for Common Pool Resources</a>
+<a class="nav nav-next" href="/foss-for-cpr/development-funding/" title="Blockchain Development Funding">Next - Blockchain Development Funding <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+</nav><footer><p class="powered">Powered by <a href="https://gohugo.io">Hugo</a>. Theme by <a href="https://themes.gohugo.io/hugo-theme-techdoc/">TechDoc</a>. Designed by <a href="https://github.com/thingsym/hugo-theme-techdoc">Thingsym</a>.</p>
+</footer>
+</main><div class="sidebar">
+<nav>
+<ul>
+<li class=""><a href="">Home</a></li>
+
+<li class=""><a href="/commons-based-peer-production/">Commons Based Peer Production (CBPP)</a>
+</li>
+
+<li class=""><a href="/software-production/">Organizing and Funding Software Production</a>
+<ul class="">
+<li class=""><a href="/software-production/intrinsic-extrinsic/">Intrinsic motivation and Extrinsic rewards</a></li>
+<li class=""><a href="/software-production/software-industry/">The Software Industry</a></li>
+<li class=""><a href="/software-production/foss-production/">FOSS Production</a></li>
+<li class=""><a href="/software-production/foss-governance/">FOSS Governance</a></li>
+</ul>
+  
+</li>
+
+<li class=""><a href="/blockchains-as-foss/">Blockchains as FOSS</a>
+<ul class="">
+
+<li class=""><a href="/blockchains-as-foss/hardfork-governance/">Hard Fork Governance</a>
+<ul class="">
+<li class=""><a href="/blockchains-as-foss/hardfork-governance/bitcoin-cash/">Bitcoin Cash Hard Fork</a></li>
+</ul>
+  
+</li>
+</ul>
+  
+</li>
+
+<li class="parent"><a href="/foss-for-cpr/">FOSS for Common Pool Resources</a>
+<ul class="sub-menu">
+<li class="active"><a href="/foss-for-cpr/cprs/">Common Pool Resources</a></li>
+
+<li class=""><a href="/foss-for-cpr/development-funding/">Blockchain Development Funding</a>
+<ul class="">
+<li class=""><a href="/foss-for-cpr/development-funding/hodl/">Hold while Building</a></li>
+<li class=""><a href="/foss-for-cpr/development-funding/donations/">Donations and Patronage</a></li>
+<li class=""><a href="/foss-for-cpr/development-funding/premine/">Premines and ICOs</a></li>
+<li class=""><a href="/foss-for-cpr/development-funding/blockreward/">Block Reward Funding</a></li>
+</ul>
+  
+</li>
+
+<li class=""><a href="/foss-for-cpr/commons-constituencies/">Commons Constituencies</a>
+<ul class="">
+<li class=""><a href="/foss-for-cpr/commons-constituencies/miners/">Proof of Work Miners</a></li>
+<li class=""><a href="/foss-for-cpr/commons-constituencies/developers/">Software Developers</a></li>
+</ul>
+  
+</li>
+</ul>
+  
+</li>
+
+<li class=""><a href="/proof-of-stake/">Proof of Stake consensus</a>
+</li>
+
+<li class=""><a href="/governance/">Governing the Crypto Commons</a>
+<ul class="">
+
+<li class=""><a href="/governance/bitcoin/">Bitcoin</a>
+</li>
+
+<li class=""><a href="/governance/ethereum/">Ethereum</a>
+</li>
+
+<li class=""><a href="/governance/monero/">Monero</a>
+</li>
+
+<li class=""><a href="/governance/eos/">EOS</a>
+</li>
+
+<li class=""><a href="/governance/tezos/">Tezos</a>
+</li>
+
+<li class=""><a href="/governance/decred/">Decred</a>
+</li>
+
+<li class=""><a href="/governance/dash/">Dash</a>
+</li>
+
+<li class=""><a href="/governance/zcash/">Zcash</a>
+</li>
+</ul>
+  
+</li>
+
+<li class=""><a href="/daos/">DAOs</a>
+<ul class="">
+
+<li class=""><a href="/daos/aragon/">Aragon</a>
+</li>
+
+<li class=""><a href="/daos/daostack/">DAOstack</a>
+</li>
+
+<li class=""><a href="/daos/ethereum/">Other Ethereum DAOs</a>
+</li>
+</ul>
+  
+</li>
+
+<li class=""><a href="/blockchain-for-what/">Blockchain for What?</a>
+</li>
+
+<li class=""><a href="/commons-economy/">Commons Based Economy</a>
+</li>
+
+<li class=""><a href="/crypto-crossroads/">At the Crypto Crossroads</a>
+</li>
+
+<li class=""><a href="/conclusion/">Conclusion</a>
+</li>
+</ul>
+</nav>
+
+
+<div class="sidebar-footer"></div>
+</div>
+</div><a href="#" id="backtothetop-fixed" class="backtothetop"
+ data-backtothetop-duration="600"
+ data-backtothetop-easing="easeOutQuart"
+ data-backtothetop-fixed-fadeIn="1000"
+ data-backtothetop-fixed-fadeOut="1000"
+ data-backtothetop-fixed-bottom="10"
+ data-backtothetop-fixed-right="20">
+<span class="fa-layers fa-fw">
+<i class="fas fa-circle"></i>
+<i class="fas fa-arrow-circle-up"></i>
+</span></a>
+</div>
+</body>
+</html>

@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Proof of Stake consensus - Peer Production on the Crypto Commons</title>
+<meta name="description" content="Toward a Commons Based Economy">
+<meta name="generator" content="Hugo 0.58.1" />
+<link href="index.xml" rel="alternate" type="application/rss+xml">
+<link rel="canonical" href="/proof-of-stake/">
+<link rel="stylesheet" href="css/theme.min.css">
+<script src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+<link rel="stylesheet" href="css/chroma.min.css">
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
+<script src="js/functions.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery.easing@1.4.1/jquery.easing.min.js"></script>
+<script src="js/jquery.backtothetop/jquery.backtothetop.min.js"></script></head>
+<body>
+<div class="container"><header>
+<h1>Peer Production on the Crypto Commons</h1>
+
+ <span class="version">Version 0.5</span>
+<a href="https://github.com/block-commons/" class="github"><i class="fab fa-github"></i></a>
+<p class="description">Toward a Commons Based Economy</p>
+
+</header>
+<div class="menu">
+<nav>
+<ul>
+<li><a href="/">Book</a></li>
+<li><a href="https://www.blockcommons.red">Block Commons</a></li>
+<li><a href="https://twitter.com/blockcommons">Twitter</a></li></ul>
+</nav>
+</div>
+<div class="content-container">
+<main><h1>Proof of Stake consensus</h1><p>One of Bitcoin&rsquo;s key innovations was to use Proof of Work consensus to allow the processing of transactions to be permissionless - needing only an honest majority of mining power and the right incentives to ensure that the network would behave as intended in adversarial conditions.</p>
+
+<p>In recent years a number of high-profile blockchain projects have launched which experiment with an alternative way of reaching consensus that doesn&rsquo;t involve PoW miners. Proof of Stake (PoS) consensus is based on the idea that holders of the cryptocurrency can, in aggregate, be relied upon to uphold the rules of the network and produce new blocks in an orderly fashion. This article will not explore the strengths and weakness of PoS vs PoW in depth, only highlight the main pros and cons, then proceed to consider how PoS affects the production of the common pool resource.</p>
+
+<p>Pros:</p>
+
+<ul>
+<li>PoS does not require as much energy as PoW, nodes just need to show that they hold coins to participate, they do not need to solve arbitrary problems.</li>
+<li>PoS is not prone to the same forces that lead PoW mining power to consolidate under the control of relatively few actors (economies of scale and more reliable rewards).</li>
+<li>Holders of the asset should have a stronger incentive to behave honestly, as their holdings would be devalued if the network fails to function in accordance with its perceived rules. PoW miners are more interested in how much they can earn, and may have hardware that allows them to mine on multiple chains (it is common for more than one blockchain to share the same hashing algorithm), decreasing the extent to which their profitability is bound to a specific chain.</li>
+</ul>
+
+<p>Cons:</p>
+
+<ul>
+<li>Nothing at stake problem. PoW miners continually expend energy to produce new blocks, when a chain splits they can only direct their hardware to mine on one of the two forks. For a PoS participant who holds the required asset, it is relatively cheap to participate in PoS, and therefore in the case of a chain split one may participate on both of the forked chains. In aggregate, this means that it may prove difficult for the network to reach consensus about which is the legitimate chain, if enough block producers are participating on both chains. PoS consensus networks often introduce security bonds and mechanisms whereby PoS participants can be punished for this kind of behavior.</li>
+<li>Incentivized pure PoS has an inherent &ldquo;rich get richer&rdquo; dynamic, because the participants who hold the asset already are the only actors who can benefit from the rewards. The low cost to participate reduces pressure to sell these rewards. The net result is that PoS participants increase their share of the asset while holders who do not participate in PoS pay the cost of being diluted. This could be construed as a kind of rent seeking arrangement, or a form of feudalism.</li>
+</ul>
+
+<p>PoS changes the infrastructure surrounding the common pool resource significantly, removing the miner constituency entirely and giving holders of the cryptocurrency a much larger role. In practice, holding the asset is usually just a qualification to participate in PoS, with the PoS constituency actually being composed of a subset of holders who choose to participate and take the necessary steps. At minimum, this usually means running a node with a wallet open that can respond when called to participate in block creation. Within some systems, participation in PoS may also involve a security deposit, which could potentially be lost if one is found to have violated the rules (by, for example, participating in more than one chain).</p>
+
+<p>Delegated Proof of Stake (DPoS) systems are a form of PoS where holders can delegate the staking power of their tokens to other actors. It is common for DPoS systems to have a fixed number of block producing nodes - EOS has 21, Ark 51, Lisk 101. Where the number of Block Producers (BPs) is fixed, the dynamic is similar to a persistent election in which holders vote to elect their preferred Block Producers (BPs). Tezos uses a form of DPoS where the number of BPs is not fixed, but rather there is a minimum stake (roll size) required to be eligible to bake, and more (delegated) stake means being selected to bake more often (although there are soft limits to prevent overly concentrated delegation).</p>
+
+<p>BPs are the only entities that interact with the blockchain in DPoS systems, so direct control of the network lies with them. BPs are accountable to holders to the extent that the votes/delegations that appointed them can be withdrawn or re-allocated.</p>
+
+<p>BPs are typically rewarded for the role they play in producing and governing the blockchain, to incentivize honest behavior. In some projects, BPs share a portion of their rewards back with the people who empowered them - this occurs openly in Tezos, Ark and Lisk, but was outlawed in EOS according to the original constitution. Sharing rewards with delegators/electors has been characterized by some as vote-buying or bribery, and decried as weakening the governance of the blockchain. It seems to be the case that BPs compete on the share of the reward they give to voters, but it is not clear how strongly this weighs on the choices of voters/delegators, and whether/which other aspects of the BPs&rsquo; performance is considered.</p>
+
+<p>BPs occupy positions of power in these networks, they are key decision-makers and also the main beneficiaries of inflation and transaction fees. This makes it possible for cartel type behavior to emerge. Lisk <a href="https://medium.com/coinmonks/lisk-the-mafia-blockchain-47248915ae2f">seems to be a good example</a> of this, with two dominant BP factions that each vote for their own members, and make the receipt of rewards by voters contingent on voting for the full set of cartel members.</p>
+
+<p>Some networks extend the domain of PoS to include making decisions about the network&rsquo;s consensus rules - explicitly establishing the constituency of PoS participants as the governors of the network. Decred and Tezos are examples of projects that take this approach.</p>
+<div class="edit-meta">
+Last updated on 10 Sep 2019
+
+
+<br>
+Published on 10 Sep 2019
+<br><a href="https://github.com/blockcommons/blockcommons/edit/master/content/proof-of-stake%5c_index.md" class="edit-page"><i class="fas fa-pen-square"></i> Edit on GitHub</a></div><nav class="pagination"><a class="nav nav-prev" href="/foss-for-cpr/commons-constituencies/developers/" title="Software Developers"><i class="fas fa-arrow-left" aria-hidden="true"></i> Prev - Software Developers</a>
+<a class="nav nav-next" href="/governance/" title="Governing the Crypto Commons">Next - Governing the Crypto Commons <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+</nav><footer><p class="powered">Powered by <a href="https://gohugo.io">Hugo</a>. Theme by <a href="https://themes.gohugo.io/hugo-theme-techdoc/">TechDoc</a>. Designed by <a href="https://github.com/thingsym/hugo-theme-techdoc">Thingsym</a>.</p>
+</footer>
+</main><div class="sidebar">
+<nav>
+<ul>
+<li class=""><a href="">Home</a></li>
+
+<li class=""><a href="/commons-based-peer-production/">Commons Based Peer Production (CBPP)</a>
+</li>
+
+<li class=""><a href="/software-production/">Organizing and Funding Software Production</a>
+<ul class="">
+<li class=""><a href="/software-production/intrinsic-extrinsic/">Intrinsic motivation and Extrinsic rewards</a></li>
+<li class=""><a href="/software-production/software-industry/">The Software Industry</a></li>
+<li class=""><a href="/software-production/foss-production/">FOSS Production</a></li>
+<li class=""><a href="/software-production/foss-governance/">FOSS Governance</a></li>
+</ul>
+  
+</li>
+
+<li class=""><a href="/blockchains-as-foss/">Blockchains as FOSS</a>
+<ul class="">
+
+<li class=""><a href="/blockchains-as-foss/hardfork-governance/">Hard Fork Governance</a>
+<ul class="">
+<li class=""><a href="/blockchains-as-foss/hardfork-governance/bitcoin-cash/">Bitcoin Cash Hard Fork</a></li>
+</ul>
+  
+</li>
+</ul>
+  
+</li>
+
+<li class=""><a href="/foss-for-cpr/">FOSS for Common Pool Resources</a>
+<ul class="">
+<li class=""><a href="/foss-for-cpr/cprs/">Common Pool Resources</a></li>
+
+<li class=""><a href="/foss-for-cpr/development-funding/">Blockchain Development Funding</a>
+<ul class="">
+<li class=""><a href="/foss-for-cpr/development-funding/hodl/">Hold while Building</a></li>
+<li class=""><a href="/foss-for-cpr/development-funding/donations/">Donations and Patronage</a></li>
+<li class=""><a href="/foss-for-cpr/development-funding/premine/">Premines and ICOs</a></li>
+<li class=""><a href="/foss-for-cpr/development-funding/blockreward/">Block Reward Funding</a></li>
+</ul>
+  
+</li>
+
+<li class=""><a href="/foss-for-cpr/commons-constituencies/">Commons Constituencies</a>
+<ul class="">
+<li class=""><a href="/foss-for-cpr/commons-constituencies/miners/">Proof of Work Miners</a></li>
+<li class=""><a href="/foss-for-cpr/commons-constituencies/developers/">Software Developers</a></li>
+</ul>
+  
+</li>
+</ul>
+  
+</li>
+
+<li class="parent active"><a href="/proof-of-stake/">Proof of Stake consensus</a>
+</li>
+
+<li class=""><a href="/governance/">Governing the Crypto Commons</a>
+<ul class="">
+
+<li class=""><a href="/governance/bitcoin/">Bitcoin</a>
+</li>
+
+<li class=""><a href="/governance/ethereum/">Ethereum</a>
+</li>
+
+<li class=""><a href="/governance/monero/">Monero</a>
+</li>
+
+<li class=""><a href="/governance/eos/">EOS</a>
+</li>
+
+<li class=""><a href="/governance/tezos/">Tezos</a>
+</li>
+
+<li class=""><a href="/governance/decred/">Decred</a>
+</li>
+
+<li class=""><a href="/governance/dash/">Dash</a>
+</li>
+
+<li class=""><a href="/governance/zcash/">Zcash</a>
+</li>
+</ul>
+  
+</li>
+
+<li class=""><a href="/daos/">DAOs</a>
+<ul class="">
+
+<li class=""><a href="/daos/aragon/">Aragon</a>
+</li>
+
+<li class=""><a href="/daos/daostack/">DAOstack</a>
+</li>
+
+<li class=""><a href="/daos/ethereum/">Other Ethereum DAOs</a>
+</li>
+</ul>
+  
+</li>
+
+<li class=""><a href="/blockchain-for-what/">Blockchain for What?</a>
+</li>
+
+<li class=""><a href="/commons-economy/">Commons Based Economy</a>
+</li>
+
+<li class=""><a href="/crypto-crossroads/">At the Crypto Crossroads</a>
+</li>
+
+<li class=""><a href="/conclusion/">Conclusion</a>
+</li>
+</ul>
+</nav>
+
+
+<div class="sidebar-footer"></div>
+</div>
+</div><a href="#" id="backtothetop-fixed" class="backtothetop"
+ data-backtothetop-duration="600"
+ data-backtothetop-easing="easeOutQuart"
+ data-backtothetop-fixed-fadeIn="1000"
+ data-backtothetop-fixed-fadeOut="1000"
+ data-backtothetop-fixed-bottom="10"
+ data-backtothetop-fixed-right="20">
+<span class="fa-layers fa-fw">
+<i class="fas fa-circle"></i>
+<i class="fas fa-arrow-circle-up"></i>
+</span></a>
+</div>
+</body>
+</html>

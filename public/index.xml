@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Peer Production on the Crypto Commons</title>
+    <link>/</link>
+    <description>Recent content in Introduction on Peer Production on the Crypto Commons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Sep 2019 15:26:15 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Common Pool Resources</title>
+      <link>/foss-for-cpr/cprs/</link>
+      <pubDate>Tue, 10 Sep 2019 15:26:15 +0000</pubDate>
+      
+      <guid>/foss-for-cpr/cprs/</guid>
+      <description>A Common Pool Resource (CPR) is one which is naturally open for consumption (&amp;ldquo;size or characteristics make it difficult to exclude potential beneficiaries from obtaining benefits of use&amp;rdquo;) but which is subtractable (faces problems of congestion or overuse) - the latter point is the key differentiator to public goods.
+The tragedy of the commons is a term popularized by Garrett Hardin - it refers to a scenario where an open resource is over-exploited because that is in the best interests of individual consumers, while they have no individual imperative to maintain or preserve the resource.</description>
+    </item>
+    
+    <item>
+      <title>Hold while Building</title>
+      <link>/foss-for-cpr/development-funding/hodl/</link>
+      <pubDate>Tue, 10 Sep 2019 15:26:15 +0000</pubDate>
+      
+      <guid>/foss-for-cpr/development-funding/hodl/</guid>
+      <description>As with other FOSS domains, developers are probably users. In Bitcoin&amp;rsquo;s case, this means that early developers may well have been holders of some BTC while it appreciated in value by orders of magnitude. Developers who held a significant amount of BTC through the price increases may now be independently wealthy and able to continue contributing without a need to generate an income from this or any other activity.
+For early developers of a young blockchain project, obtaining some of the underlying asset makes sense if one believes that one&amp;rsquo;s efforts will help to increase its value.</description>
+    </item>
+    
+    <item>
+      <title>Proof of Work Miners</title>
+      <link>/foss-for-cpr/commons-constituencies/miners/</link>
+      <pubDate>Tue, 10 Sep 2019 15:26:15 +0000</pubDate>
+      
+      <guid>/foss-for-cpr/commons-constituencies/miners/</guid>
+      <description>PoW miners of Bitcoin are presently incentivized by receiving rewards (newly minted coins plus transaction fees) for each block they produce. The PoW miner subsidy represents inflation which every holder of the asset is indirectly paying for through the relative decrease in the value of their own holdings. Importantly, Bitcoin has a fixed inflationary schedule which will see the rate of inflation drop (half) at specified points in the future, until the limit of 21 million BTC is reached and no more new coins are produced.</description>
+    </item>
+    
+    <item>
+      <title>Intrinsic motivation and Extrinsic rewards</title>
+      <link>/software-production/intrinsic-extrinsic/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>/software-production/intrinsic-extrinsic/</guid>
+      <description>One concept from the Psychological literature relevant here is that of intrinsic motivation, which means being motivated by some inherent interest in the task and the satisfaction its completion will bring. Extrinsic motivation means being motivated by some external and separable outcome (e.g. getting paid). The difference between intrinsic and extrinsic motivation has been demonstrated experimentally (Deci, 1972) by asking participants to engage in some task like solving puzzles and controlling whether they receive an external reward (they are paid to puzzle) or not.</description>
+    </item>
+    
+    <item>
+      <title>The Software Industry</title>
+      <link>/software-production/software-industry/</link>
+      <pubDate>Wed, 11 Sep 2019 12:26:15 +0000</pubDate>
+      
+      <guid>/software-production/software-industry/</guid>
+      <description>While intrinsic motivation may be a factor in the behavior of company employees, this cannot be assumed. What can be assumed is that the payment workers receives and the importance of that money to them marginalizes any role for intrinsic motivation. The individual&amp;rsquo;s will is subjugated to that of the corporate hierarchy, at least within certain time periods where the employee is &amp;ldquo;at work&amp;rdquo;.
+The lack of intrinsic motivation means that workers may not actually complete their work if they can get away with it, which necessitates means for the corporation to ensure that they get what they are paying for from workers.</description>
+    </item>
+    
+    <item>
+      <title>Donations and Patronage</title>
+      <link>/foss-for-cpr/development-funding/donations/</link>
+      <pubDate>Tue, 10 Sep 2019 15:26:15 +0000</pubDate>
+      
+      <guid>/foss-for-cpr/development-funding/donations/</guid>
+      <description>Donation based funding is familiar from other FOSS and CBPP domains - sustaining projects like VLC media player and Wikipedia (through the funding of the Wikimedia foundation). In the cryptocurrency space, informal ad hoc donations are relatively common. For example, Andreas Antonopoulos (Blockchain educator) received $1.5 million in BTC donations after revealing that he was not wealthy and being mocked for it. Vitalik Buterin (Ethereum co-founder) has distributed some 1,000 ETH donations on twitter.</description>
+    </item>
+    
+    <item>
+      <title>Software Developers</title>
+      <link>/foss-for-cpr/commons-constituencies/developers/</link>
+      <pubDate>Tue, 10 Sep 2019 15:26:15 +0000</pubDate>
+      
+      <guid>/foss-for-cpr/commons-constituencies/developers/</guid>
+      <description>Blockchain developers can implement a change to their software which changes the consensus rules, but this will only take effect if the other constituencies apply this update. For some networks, there is only a single viable node implementation, and in those cases the other constituencies have limited choice in whether to accept or reject any proposed changes to the consensus rules. Rejecting a change may mean abandoning the chain which is being actively maintained in favor of a chain whose software is no longer updated, or is updated with weaker quality controls.</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin Cash Hard Fork</title>
+      <link>/blockchains-as-foss/hardfork-governance/bitcoin-cash/</link>
+      <pubDate>Wed, 11 Sep 2019 12:26:15 +0000</pubDate>
+      
+      <guid>/blockchains-as-foss/hardfork-governance/bitcoin-cash/</guid>
+      <description>Bitcoin Cash (BCH) was born at Bitcoin block height 478,559 (on 1 August 2017), when a faction of the ecosystem which rejected SegWit and preferred to scale the block size introduced its own hard fork change to the consensus rules. It is interesting to note that the BCH faction were forced to make a hard fork change to avoid the activation of SegWit (which was going to go ahead despite their objection, because it had enough miner support).</description>
+    </item>
+    
+    <item>
+      <title>FOSS Production</title>
+      <link>/software-production/foss-production/</link>
+      <pubDate>Wed, 11 Sep 2019 12:26:15 +0000</pubDate>
+      
+      <guid>/software-production/foss-production/</guid>
+      <description>FOSS starts from the basis of having all of the code on the commons, removing the possibility that anyone can seek to profit by restricting access to it. Anyone is free to use it and build on it, to extend it or turn it into something else. The ease with which a FOSS project can be forked and taken in an alternative direction limits the degree to which users or developers have to tolerate any behaviour they dislike from the entity which is producing the software - whether that&amp;rsquo;s some odious new feature or an order to do something which contradicts one&amp;rsquo;s own preference.</description>
+    </item>
+    
+    <item>
+      <title>Premines and ICOs</title>
+      <link>/foss-for-cpr/development-funding/premine/</link>
+      <pubDate>Tue, 10 Sep 2019 15:26:15 +0000</pubDate>
+      
+      <guid>/foss-for-cpr/development-funding/premine/</guid>
+      <description>In recent years, many blockchain projects have been setting up their common pool resource so that it is able to fund its own development, either initially or on an ongoing basis. The remainder of this section reviews the various mechanisms through which a blockchain can fund its own development.
+A premine refers to allocating some proportion of the tokens before the launch of the network, typically including these allocations in the genesis block when the blockchain launches.</description>
+    </item>
+    
+    <item>
+      <title>FOSS Governance</title>
+      <link>/software-production/foss-governance/</link>
+      <pubDate>Wed, 11 Sep 2019 12:26:15 +0000</pubDate>
+      
+      <guid>/software-production/foss-governance/</guid>
+      <description>The defining feature of FOSS governance is the fact that the product is commons based and equally accessible to all parties. There is relatively little friction involved in forking a codebase and taking two versions of a piece of software in different directions. The ownership of Intellectual Property (IP), which determines who is allowed to develop and exploit proprietary software, has only limited significance. In FOSS projects IP considerations are typically limited to the ownership of non-vital assets such as names/trademarks, domains and hosting services (i.</description>
+    </item>
+    
+    <item>
+      <title>Block Reward Funding</title>
+      <link>/foss-for-cpr/development-funding/blockreward/</link>
+      <pubDate>Tue, 10 Sep 2019 15:26:15 +0000</pubDate>
+      
+      <guid>/foss-for-cpr/development-funding/blockreward/</guid>
+      <description>Some blockchains utilize a portion of ongoing block rewards to fund development. In the same way that miners are rewarded for the hashpower security they provide, those who build the infrastructure can also be rewarded for their work on an ongoing basis. This model is good for aligning the incentives of developers (or those who can expect to draw on the development funding) with the long term interests of the network.</description>
+    </item>
+    
+  </channel>
+</rss>

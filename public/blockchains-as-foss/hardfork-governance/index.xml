@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hard Fork Governance on Peer Production on the Crypto Commons</title>
+    <link>/blockchains-as-foss/hardfork-governance/</link>
+    <description>Recent content in Hard Fork Governance on Peer Production on the Crypto Commons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Sep 2019 12:26:15 +0000</lastBuildDate>
+    
+	<atom:link href="/blockchains-as-foss/hardfork-governance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bitcoin Cash Hard Fork</title>
+      <link>/blockchains-as-foss/hardfork-governance/bitcoin-cash/</link>
+      <pubDate>Wed, 11 Sep 2019 12:26:15 +0000</pubDate>
+      
+      <guid>/blockchains-as-foss/hardfork-governance/bitcoin-cash/</guid>
+      <description>Bitcoin Cash (BCH) was born at Bitcoin block height 478,559 (on 1 August 2017), when a faction of the ecosystem which rejected SegWit and preferred to scale the block size introduced its own hard fork change to the consensus rules. It is interesting to note that the BCH faction were forced to make a hard fork change to avoid the activation of SegWit (which was going to go ahead despite their objection, because it had enough miner support).</description>
+    </item>
+    
+  </channel>
+</rss>
