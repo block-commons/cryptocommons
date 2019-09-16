@@ -18,12 +18,12 @@ enableMissingTranslationPlaceholders = false
 
     # Souce Code repository section
     description = "Toward a Commons Based Economy"
-    github_repository = "https://github.com/block-commons/"
+    github_repository = "https://github.com/RichardRed0x/ppcc/"
     version = "0.5"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
-    github_doc_repository = "https://github.com/blockcommons/blockcommons"
+    github_doc_repository = "https://github.com/RichardRed0x/ppcc/"
 
     # Analytic section
     google_analytics_id = "" # Your Google Analytics tracking id
