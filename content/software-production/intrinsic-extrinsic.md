@@ -1,5 +1,5 @@
 ---
-title: "Intrinsic motivation and Extrinsic rewards"
+title: "Intrinsic Motivation and Extrinsic Rewards"
 date: 2017-10-17T15:26:15Z
 draft: false
 weight: 10
@@ -7,7 +7,7 @@ weight: 10
 
 One concept from the Psychological literature relevant here is that of **intrinsic motivation**, which means being motivated by some inherent interest in the task and the satisfaction its completion will bring. **Extrinsic motivation** means being motivated by some external and separable outcome (e.g. getting paid). The difference between intrinsic and extrinsic motivation has been demonstrated experimentally ([Deci, 1972](https://selfdeterminationtheory.org/SDT/documents/1972_Deci_JPSP.pdf)) by asking participants to engage in some task like solving puzzles and controlling whether they receive an external reward (they are paid to puzzle) or not. Following the completion of the task, the participant is then ostensibly left to their own devices in the same environment, and observed to see if they continue with the task. Participants who were not rewarded to complete the task tend to spend more time doing it in the subsequent free choice period. This has been interpreted to mean that the extrinsic reward (payment) displaces the intrinsic motivation participants would otherwise have felt (enjoying the puzzles). People who are paid to puzzle feel like they are puzzling because they are getting paid, when the payments stop so does the puzzling.
 
-This experimental paradigm has been used to study how different kinds of extrinsic rewards interact with intrinsic motivation. In a comprehensive meta-analysis [Deci & Ryan (1999)](https://pdfs.semanticscholar.org/3374/fde0f00aa20810beaba27f1fe4bd54529dae.pdf) reported that rewards which are engagement-contingent (require participation), completion-contingent and performance-contingent all significantly undermined free-choice intrinsic motivation.
+This experimental paradigm has been used to study how different kinds of extrinsic rewards interact with intrinsic motivation. In a comprehensive meta-analysis, [Deci & Ryan (1999)](https://pdfs.semanticscholar.org/3374/fde0f00aa20810beaba27f1fe4bd54529dae.pdf) reported that rewards which are engagement-contingent (require participation), completion-contingent and performance-contingent all significantly undermined free-choice intrinsic motivation.
 
 > As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards. Engagement-contingent and completion contingent rewards also significantly undermined self-reported interest (d = -0.15, and —0.17), as did
 > all tangible rewards and all expected rewards. Positive feedback enhanced both free-choice behavior (d = 0.33) and self-reported interest (d = 0.31) the factors associated with diminishing intrinsic motivation. 
@@ -32,7 +32,7 @@ Intrinsic motivation features heavily within FOSS. The desire to make something 
 
 [Lakhani & Wolf (2005)](http://www.ocw.nur.ac.rw/NR/rdonlyres/Sloan-School-of-Management/15-352Spring-2005/D2C127A9-B712-4ACD-AA82-C57DE2844B8B/0/lakhaniwolf.pdf) surveyed 684 developers in 287 FOSS projects and found that:
 
-> the enjoyment-based intrinsic motivation, namely how creative a person feels when working on the project, is the strongest and most pervasive driver. We also find that user need, intellectual stimulation derived from writing code, and improving programming skills are top motivators for project participation." 
+> ...the enjoyment-based intrinsic motivation, namely how creative a person feels when working on the project, is the strongest and most pervasive driver. We also find that user need, intellectual stimulation derived from writing code, and improving programming skills are top motivators for project participation. 
 
 They also reported that around 40% of contributors were paid to participate in FOSS projects.
 
