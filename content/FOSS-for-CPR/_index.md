@@ -5,6 +5,7 @@ draft: false
 weight: 40
 ---
 
+
 On its own, blockchain FOSS software is of little consequence. With the coordinated participation of a number of constituencies it can become the backbone of a powerful network that can transmit information and value digitally in a way which is resistant to censorship, corruption and subjugation.
 
 Strong public blockchains are significant because they are robust, there is probably no way for an opposing force to stop these networks from functioning. This robustness stems from their decentralization, anyone can run a node anywhere, and for as long as there are at least a handful of these nodes, the blockchain will persist. For as long as the majority of nodes apply the consensus rules faithfully, *the network will continue to function according to those rules*. The question of how significant blockchains will be depends on how popular they are, but the concept and potential is here to stay, running and using them is now just one way to use the internet. 
