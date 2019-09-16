@@ -1,9 +1,9 @@
 ---
 title: "Organizing and Funding Software Production"
-date: 2017-10-17T15:26:15Z
+date: 2019-09-10T15:26:15Z
 draft: false
 weight: 10
-description: "where does this descripiption appear"
+description: ""
 ---
 
 
