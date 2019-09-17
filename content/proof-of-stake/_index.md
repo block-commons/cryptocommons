@@ -2,7 +2,7 @@
 title: "Proof of Stake consensus"
 date: 2019-09-10T15:26:15Z
 draft: false
-weight: 50
+weight: 200
 ---
 
 

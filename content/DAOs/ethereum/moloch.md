@@ -4,7 +4,7 @@ date: 2019-09-11T18:59:13+01:00
 lastmod: 2019-09-11T18:59:13+01:00
 draft: true
 description: ""
-weight: 30
+weight: 380
 ---
 
 Moloch DAO is a smart contract DAO launched in early 2019 for funding development of the Ethereum ecosystem. Members in the DAO have non-transferable shares which they can use to vote on proposals. The DAO is funded by "tribute", when new members join they add resources to the fund. It is in a sense a DAO for collectively administering donations.

@@ -2,7 +2,7 @@
 title: "FOSS Governance"
 date: 2019-09-11T12:26:15Z
 draft: false
-weight: 40
+weight: 60
 description: ""
 ---
 

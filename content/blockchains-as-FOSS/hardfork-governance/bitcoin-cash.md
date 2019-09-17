@@ -2,7 +2,7 @@
 title: "Bitcoin Cash Hard Fork"
 date: 2019-09-11T12:26:15Z
 draft: false
-weight: 30
+weight: 90
 description: ""
 ---
 

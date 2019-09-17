@@ -4,7 +4,7 @@ date: 2019-09-11T21:01:59+01:00
 lastmod: 2019-09-11T21:01:59+01:00
 draft: true
 description: ""
-weight: 40
+weight: 390
 ---
 
 Below is based on (and quotes heavily from) an [overview](https://github.com/RichardRed0x/crypto-governance-research/blob/master/answers/Maker.md) written by [Seth Benton](https://medium.com/@seth.benton), as part of the [crypto-governance-research](https://github.com/RichardRed0x/crypto-governance-research) project.   

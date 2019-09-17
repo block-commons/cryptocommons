@@ -2,7 +2,7 @@
 title: "Proof of Work Miners"
 date: 2019-09-10T15:26:15Z
 draft: false
-weight: 10
+weight: 180
 ---
 
 PoW miners of Bitcoin are presently incentivized by receiving rewards (newly minted coins plus transaction fees) for each block they produce. The PoW miner subsidy represents inflation which every holder of the asset is indirectly paying for through the relative decrease in the value of their own holdings. Importantly, Bitcoin has a fixed inflationary schedule which will see the rate of inflation drop (half) at specified points in the future, until the limit of 21 million BTC is reached and no more new coins are produced. In principle, PoW miners would at this point be funded by transaction fees only, but there are open discussions about whether that is economically feasible.

@@ -4,7 +4,7 @@ date: 2019-09-11T19:08:53+01:00
 lastmod: 2019-09-11T19:08:53+01:00
 draft: true
 description: ""
-weight: 90
+weight: 410
 ---
 
 If "software is eating the world", then the means of producing that software will come to define the new epoch. Proprietary software and walled gardens controlled by corporate entities represent the transfer and emulation of industrial era practices into the "digital economy". Top-down control within the corporation means that the constraints of profitability are imposed above all other considerations. As the role that some of these big tech companies fill has become more like the provision of important public utilities, it has become clear that they are generally not very good at performing this role. The frequency of damaging hacks and misuse of data is testament to this.

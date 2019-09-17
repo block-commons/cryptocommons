@@ -4,7 +4,7 @@ date: 2019-09-11T20:56:28+01:00
 lastmod: 2019-09-11T20:56:28+01:00
 draft: true
 description: ""
-weight: 10
+weight: 320
 ---
 
 Aragon is a platform for creating organizations that are "digital natives", it is concerned as much with building a digital jurisdiction for these organizations as it is with facilitating their creation. For now these DAOs live on the Ethereum blockchain as a set of voting-powered smart contracts through which the members of an organization make decisions (primarily about resource allocation) and have their collective decisions automatically actioned. Aragon pitches these organizations as "bureaucracy-free", but I think it is more accurate to describe them as having a highly efficient and automated bureaucracy. The toolset that Aragon currently offers is geared towards groups administering shared asset pools according to the outcomes of votes. Members deposit digital assets in a common pool and withdrawing or spending these assets requires a vote to pass. The DAO can mint its own tokens for voting and assign these to its members. 

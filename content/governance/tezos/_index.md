@@ -4,7 +4,7 @@ date: 2019-09-11T20:42:21+01:00
 lastmod: 2019-09-11T20:42:21+01:00
 draft: true
 description: ""
-weight: 50
+weight: 270
 ---
 
 Tezos uses Delegated Proof of Stake (DPoS) consensus, but does not put a cap on the number of BPs ("bakers") - they refer to this as [liquid proof of stake](https://medium.com/tezos/liquid-proof-of-stake-aec2f7ef1da7). In principle the maximum number of bakers can be quite large, it is determined by the minimum "roll size", but bakers that control more XTZ (Tezos' native currency) will bake more blocks and have a more reliable income.

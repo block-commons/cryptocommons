@@ -2,7 +2,7 @@
 title: "Hard Fork Governance"
 date: 2019-09-11T12:26:15Z
 draft: false
-weight: 30
+weight: 80
 description: ""
 ---
 

@@ -2,7 +2,7 @@
 title: "The Software Industry"
 date: 2019-09-11T12:26:15Z
 draft: false
-weight: 20
+weight: 40
 description: ""
 ---
 
@@ -46,3 +46,4 @@ Graeber's work also offers an opportunity to take a step back and consider FOSS 
 Graeber makes the case that over the last decades we have witnessed a proliferation of bullshit jobs that serve no purpose within their broader organizational context or externally, and can be actively counter-productive.  Graeber posits that this is closely related to the rise in administrative/managerial positions relative to the rest of the workforce - which can be read as an attempt to maintain productivity through hierarchical control as organizations scale. Within a large organization where sub-domains are relatively opaque to each other, inefficiency or organizational malfunction is more likely to persist or grow for sustained periods as it may go undetected by the entity as a whole. The status quo is always beneficial for some party, and that party often has the influence to maintain it.
 
 Within a small group of workers, every worker is known directly by a relatively large proportion of the other workers. With some degree of insight into each others' work, an informal reputation system emerges which reflects individual productivity fairly well. As an organization grows in terms of the number of employees, each individual is known by a much smaller proportion of the other employees, and managers may be responsible for more workers than they can know individually. Formalizing interactions between workers is an effort to maintain cohesion across an organization and achieve consistency in its interactions with external parties. The more aspects of a job which have been formalized, the more that job becomes about ticking the right boxes and scoring well on evaluation criteria.
+

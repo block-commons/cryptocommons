@@ -4,7 +4,7 @@ date: 2019-09-13T23:37:48+01:00
 lastmod: 2019-09-13T23:37:48+01:00
 draft: true
 description: ""
-weight: 30
+weight: 370
 ---
 
 "[The DAO](https://en.wikipedia.org/wiki/The_DAO_(organization))" is still for many people a particular initiative that happened on the Ethereum network in 2016. It was mentioned [previously](/development-funding/premine) in the context of the hard fork which occurred in the aftermath of its failure, to erase the damage it did. 

@@ -4,7 +4,7 @@ date: 2019-09-11T21:07:01+01:00
 lastmod: 2019-09-11T21:07:01+01:00
 draft: true
 description: ""
-weight: 10
+weight: 420
 ---
 
 Our software infrastructure for handling data and security in general is poor, as evidenced by the many breaches of personal information and ransomware attacks. The adapted industrial method of organizing software development has a lot of issues. The health and profitability of the producing organization comes first, the software is a means to that end.

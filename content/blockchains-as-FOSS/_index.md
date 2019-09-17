@@ -2,7 +2,7 @@
 title: "Blockchains as FOSS"
 date: 2019-09-11T12:26:15Z
 draft: false
-weight: 20
+weight: 70
 description: ""
 ---
 

@@ -2,7 +2,7 @@
 title: "Commons Based Peer Production (CBPP)"
 date: 2019-09-10T15:26:15Z
 draft: false
-weight: 9
+weight: 10
 ---
 
 

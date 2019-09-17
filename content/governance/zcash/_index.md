@@ -4,7 +4,7 @@ date: 2019-09-11T20:42:34+01:00
 lastmod: 2019-09-11T20:42:34+01:00
 draft: true
 description: ""
-weight: 80
+weight: 300
 ---
 
 Zcash relies on pure PoW consensus and is mined by ASICs. Having formerly considered itself "ASIC resistant", it [made no moves](https://cointelegraph.com/news/zcash-exercises-restraint-as-the-antminer-z11-release-approaches) to interfere with the deployment of ASICs on the network and now takes a neutral position towards them.

@@ -2,7 +2,7 @@
 title: "Governing the Crypto Commons"
 date: 2019-09-10T15:26:15Z
 draft: false
-weight: 60
+weight: 210
 ---
 
 
