@@ -26,7 +26,7 @@ This [article](https://medium.com/@nic__carter/its-the-settlement-assurances-stu
 
 Developer groups must also choose which side of a chain split to join, and for developers this may be a high friction decision where it becomes difficult to switch to work on software for the other chain. 
 
-The Bitcoin Core group of developers, whose software is used by 97% of the Bitcoin public nodes, were as a collective on the "winning" side in each of these episodes. I don't know whether Bitcoin Core lost contributors who went to work on software that was supporting a different chain, I would guess this happened to at least a small degree.
+The Bitcoin Core group of developers, whose software is used by 97% of the Bitcoin public nodes, were as a collective on the "winning" side in each of these episodes. It is not clear from the outside whether Bitcoin Core lost contributors who went to work on software that was supporting a different chain.
 
 In the case of a chain split, holders of the asset have an equal number of units on each chain, and now have a choice about which one to use. From a technical perspective, users are not compelled to pick a side. As long as precautions are taken to make transactions incompatible between chains (to avoid [replay attacks](https://blockonomi.com/replay-attacks/)), users should only be exposed to damage from a chain split to the extent that the two split chains are weaker than the former sum of their parts. Nevertheless, the Bitcoin community did appear to fragment as a result of the episodes described above, with many members announcing their preferred fork and becoming hostile to supporters of the other variants.
 

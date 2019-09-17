@@ -23,7 +23,7 @@ There is significant promise in the idea of DAOs for funding and coordinating so
 
 If there is a generally applicable method to incentivize and reward high quality contributions to digital infrastructure, we all stand to benefit greatly from identifying and adopting it. 
 
-If it works for FOSS, there's no reason it wouldn't also work for other forms of CBPP. Anything that could work well as a commons based public good (which as far as I'm concerned is all digitizable media) could find utility in new modes of production that leverage DAOs. 
+If it works for FOSS, there's no reason it wouldn't also work for other forms of CBPP. Anything that could work well as a commons-based public good (which as far as I'm concerned is all digitizable media) could find utility in new modes of production that leverage DAOs. 
 
 We will see how this works first in the cryptocurrency domain, because cryptocurrencies are socio-digital organisms that print money to incentivize their own upkeep and expansion. Centralization is a weakness for these organisms, and so the selection process should favour those projects which minimize or isolate that weakness, in the long run.
 

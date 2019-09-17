@@ -22,7 +22,7 @@ BCH forked off the Bitcoin chain in August 2017, as an attempt to resolve some l
 
 SegWit was added as a "soft fork", it established new rules to make a new type of transaction possible but did not require all nodes to update their rules to accept blocks with these transactions. Soft forks only require miners to adopt the new software for the amended consensus rules to take effect.
 
-I found the idea of chain splits and the different types of blockchain forks to be some of the hardest aspects to get my head around - an article I wrote in 2018 contains a [high level overview](https://github.com/RichardRed0x/writing/blob/master/blockchain-governance-introduction.md#4-soft-forks-hard-forks-chain-splits-and-free-coins) (following a more basic introduction to concepts like PoW).
+Chain splits and the different types of blockchain forks can be difficult to wrap one's head around - an article I wrote in 2018 contains a [high level overview](https://github.com/RichardRed0x/writing/blob/master/blockchain-governance-introduction.md#4-soft-forks-hard-forks-chain-splits-and-free-coins) (following a more basic introduction to concepts like PoW).
 
 Bitcoin has for many years adopted a "no hard forks" approach to upgrades that change the consensus rules. A hard fork is one which changes the consensus rules in such a way that nodes running the previous version of the software will not recognize new blocks as valid. This would pose a particular challenge for Bitcoin. As there are many nodes and they have no established way of coordinating a hard fork upgrade, it would be difficult to deploy a hard fork upgrade without leaving some participants behind on a network following the old rules.
 

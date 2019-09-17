@@ -17,7 +17,7 @@ Some blockchains can fund their own development, they are self-sustaining digita
 
 The aims of these projects go beyond producing good software, often involving grand ambitions to fundamentally change how people conduct aspects of their lives, or modify aspects of the socioeconomic system. This means that the funding these projects dispense goes towards a range of activities which will strengthen their commons in a variety of ways. 
 
-This is a novel funding mechanism for commons based peer production, which outside the domain of FOSS has been even more hampered by the difficulties of funding the production of public goods.
+This is a novel funding mechanism for commons-based peer production, which outside the domain of FOSS has been even more hampered by the difficulties of funding the production of public goods.
 
 DAOs are an effort to build methods of coordination into the commons. Organizations that can be trusted to implement the rules of decision-making in the way that has been agreed by all participants. This idea has the potential to transform our capacity to organize by minimizing the transaction costs associated with doing so, improving efficiency and diminishing risks when collaborating with people who are relatively unknown (and therefore untrusted). 
 
