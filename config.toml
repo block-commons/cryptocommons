@@ -53,7 +53,7 @@ baseurl="/"
 
 [[menu.main]]
     name = "Block Commons"
-    url = "https://www.blockcommons.red"
+    url = "http://www.blockcommons.red"
     weight = 3
 
 [[menu.main]]

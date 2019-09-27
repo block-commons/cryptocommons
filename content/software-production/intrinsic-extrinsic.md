@@ -1,6 +1,6 @@
 ---
 title: "Intrinsic Motivation and Extrinsic Rewards"
-date: 2017-10-17T15:26:15Z
+date: 2019-08-17T15:26:15Z
 draft: false
 weight: 30
 ---
