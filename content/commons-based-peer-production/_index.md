@@ -5,6 +5,7 @@ draft: false
 weight: 10
 ---
 
+![CBPP](/commons-based-peer-production.jpg)
 
 Yochai Benkler (2006) wrote about the concept of commons-based peer production in his 2006 book "[The Wealth of Networks - How Social Production Transforms Markets and Freedom](https://cyber.harvard.edu/wealth_of_networks/Download_PDFs_of_the_book)", describing its qualities and potential in some detail.  Commons based peer production (CBPP) is a new model of socioeconomic production in which people work cooperatively on commons-based (publicly accessible) resources. The most well described and significant examples of CBPP are Free and Open Source Software (FOSS) projects, other examples include Wikipedia, OpenStreetMap and The Pirate Bay.
 

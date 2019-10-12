@@ -2,7 +2,7 @@
 title: "Conclusion"
 date: 2019-09-11T21:09:46+01:00
 lastmod: 2019-09-11T21:09:46+01:00
-draft: true
+draft: false
 description: ""
 weight: 440
 ---

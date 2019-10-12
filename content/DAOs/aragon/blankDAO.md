@@ -2,7 +2,7 @@
 title: "BlankDAO"
 date: 2019-09-11T18:58:00+01:00
 lastmod: 2019-09-11T18:58:00+01:00
-draft: true
+draft: false
 description: ""
 weight: 330
 ---

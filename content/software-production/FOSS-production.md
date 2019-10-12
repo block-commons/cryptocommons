@@ -2,9 +2,10 @@
 title: "FOSS Production"
 date: 2019-09-11T12:26:15Z
 draft: false
-weight: 50
+weight: 51
 description: ""
 ---
+![](/foss-production.jpg)
 
 FOSS starts from the basis of having all of the code on the commons, removing the possibility that anyone can seek to profit by restricting access to it. Anyone is free to use it and build on it, to extend it or turn it into something else. The ease with which a FOSS project can be forked and taken in an alternative direction limits the degree to which users or developers have to tolerate any behaviour they dislike from the entity which is producing the software. If the people in charge of a particular version of the software make decisions that colleagues or users disagree with (e.g. new UI), those who reject that direction can opt out. There is no copyright restriction to prevent people from forming a new group to take a project in an alternative direction.
 

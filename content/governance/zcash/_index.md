@@ -2,7 +2,7 @@
 title: "Zcash"
 date: 2019-09-11T20:42:34+01:00
 lastmod: 2019-09-11T20:42:34+01:00
-draft: true
+draft: false
 description: ""
 weight: 300
 ---

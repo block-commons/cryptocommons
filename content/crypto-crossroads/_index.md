@@ -2,7 +2,7 @@
 title: "At the Crypto Crossroads"
 date: 2019-09-11T19:09:02+01:00
 lastmod: 2019-09-11T19:09:02+01:00
-draft: true
+draft: false
 description: ""
 weight: 430
 ---

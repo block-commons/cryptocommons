@@ -2,7 +2,7 @@
 title: "Software is Hard"
 date: 2019-09-11T21:07:01+01:00
 lastmod: 2019-09-11T21:07:01+01:00
-draft: true
+draft: false
 description: ""
 weight: 420
 ---

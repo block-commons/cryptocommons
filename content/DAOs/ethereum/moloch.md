@@ -2,7 +2,7 @@
 title: "Moloch DAO"
 date: 2019-09-11T18:59:13+01:00
 lastmod: 2019-09-11T18:59:13+01:00
-draft: true
+draft: false
 description: ""
 weight: 380
 ---

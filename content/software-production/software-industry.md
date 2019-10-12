@@ -5,7 +5,7 @@ draft: false
 weight: 40
 description: ""
 ---
-
+![](/software-industry.jpg)
 
 While intrinsic motivation may be a factor in the behavior of company employees, this cannot be assumed. What can be assumed is that the payment workers receive and the importance of that money to them marginalizes any role for intrinsic motivation. The individual's will is subjugated to that of the corporate hierarchy, at least within certain time periods where the employee is "at work". 
 

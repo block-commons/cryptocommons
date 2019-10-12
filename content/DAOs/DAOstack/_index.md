@@ -2,7 +2,7 @@
 title: "DAOstack"
 date: 2019-09-11T20:56:35+01:00
 lastmod: 2019-09-11T20:56:35+01:00
-draft: true
+draft: false
 description: ""
 weight: 340
 ---
