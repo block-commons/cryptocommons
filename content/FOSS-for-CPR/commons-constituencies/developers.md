@@ -6,6 +6,7 @@ weight: 190
 ---
 
 
+
 Blockchain developers can implement a change to their software which changes the consensus rules, but this will only take effect if the other constituencies apply this update. For some networks, there is only a single viable node implementation, and in those cases the other constituencies have limited choice in whether to accept or reject any proposed changes to the consensus rules. Rejecting a change may mean abandoning the chain which is being actively maintained in favor of a chain whose software is no longer updated, or is updated with weaker quality controls. Where multiple node implementations are available, other constituencies may have greater choice in whether to accept or reject proposed changes. Dominant implementations benefit from inertia and trust, as some participants may choose to defer to the judgement of a group that has already proven itself to be a reliable custodian of the code. 
 
 These decisions about which chain to follow blend the political with the technical. The decision of whether to embrace the BCH fork was not just about the merits and demerits of big blocks as a scaling solution, it was also about whether to use software produced by the Bitcoin Core or Bitcoin ABC teams. In an environment where unforeseen issues with code quality can have detrimental affects on utility and value, the developers' ability to produce robust software reliably is a pragmatic consideration.

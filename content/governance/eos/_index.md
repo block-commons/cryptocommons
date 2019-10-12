@@ -63,3 +63,4 @@ It is difficult to ascertain the reasons why token holders vote for some BPs and
 Block.one occupies a dominant position in the EOS ecosystem, with the BP/user constituency having effectively paid them $4 billion to develop the EOS.io software. Block.one has the resources to push EOS development in the direction of its choosing, and can shape the broader ecosystem through its [VC investments](https://vc.eos.io/). 
 
 All EOS tokens in circulation were either bought in the ICO or produced through inflation by the Block Producers (who were elected by the ICO holders). People who wish to use EOS must obtain tokens, which ultimately all come from these two sources. In this model the founders and initial ICO participants effectively own the network because they built it, and other parties must buy or lease tokens to make use of it. As of June 2019, 98.4% of the EOS tokens in existence were created in the ICO.
+

@@ -10,6 +10,16 @@ Considering public blockchains as ecosystems surrounding the production of a com
 
 The developers who write the core software which objectifies the consensus rules, and the entities that can produce new blocks (PoW miners, block producers), are key constituencies in every project. There are also roles for other constituencies in the ecosystem (e.g. users, merchants, layer 2 service providers) to play, with the scale and clout of these constituencies varying significantly between projects. Hard fork based governance where participants choose freely whether to adopt a change in the rules leads to chain splits, which introduces the market (via exchanges) as an arbiter of which chain has greater legitimacy or promise. 
 
+From the commons-based perspective of this resource, the most important question is how much of the decision-making process actually occurs on the commons? Where a blockchain's commons are dominated by a small number of entities like corporations or foundations, governance can be dominated by the non-public interactions within and between these entities.
+
+For the portion of a blockchain's governance that occurs on the commons, the key question becomes whether and how this is structured. The default, inherited from FOSS, is unstructured rough consensus. 
+
+Successful blockchains are powerful in a way that is new to FOSS software projects. 
+
+Looking at the way that Bitcoin governance is conducted (across a wide range of platforms from GitHub to conferences to mailing lists to IRC to twitter and reddit), and how the 
+
+
+
 This section will consider some blockchain projects that are conducting aspects of their decision-making on the commons. It will focus on:
 
 * the block producer constituency and how changes to the consensus rules are approved and deployed

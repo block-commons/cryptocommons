@@ -7,7 +7,7 @@ publishdate: 2019-09-10T15:26:15Z
 
 # DRAFT: This has not yet been released so please do not share it yet.
 
-
+![The Block Commons, by @sænder](the-block-commons.jpg)
 
 ## Introduction
 
