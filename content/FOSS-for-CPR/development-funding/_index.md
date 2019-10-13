@@ -2,7 +2,7 @@
 title: "Blockchain Development Funding"
 date: 2019-09-10T15:26:15Z
 draft: false
-weight: 110
+weight: 191
 ---
 
 
