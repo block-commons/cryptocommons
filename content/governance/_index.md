@@ -12,13 +12,13 @@ The developers who write the core software which objectifies the consensus rules
 
 From the commons-based perspective of this resource, the most important question is how much of the decision-making process actually occurs on the commons? Where a blockchain's commons are dominated by a small number of entities like corporations or foundations, governance can be dominated by the non-public interactions within and between these entities.
 
-For the portion of a blockchain's governance that occurs on the commons, the key question becomes whether and how this is structured. The default, inherited from FOSS, is unstructured rough consensus. 
+For the portion of a blockchain's governance that occurs on the commons, the key questions are whether and how this is structured. The default, inherited from FOSS, is unstructured rough consensus. This style of unstructured governance has limitations that become apparent when the scale of the endeavour expands or conflicts arise. Jo Freeman's [The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm) is highly relevant here, it describes the women's liberation movement in the 1970s, which rejected organizational structure in the same way that blockchain ecosystems reject "centralization". The absence of structure in that case served to empower embedded elites within the movement and restrict the influence of new members as well as the accessibility of the movement.
 
-Successful blockchains are powerful in a way that is new to FOSS software projects. 
+Successful blockchains are powerful in a way that is new to FOSS software projects. Unstructured governance may prove to be a weakness, if it allows elites to capture the governance process with behind the scenes machinations. 
 
-Looking at the way that Bitcoin governance is conducted (across a wide range of platforms from GitHub to conferences to mailing lists to IRC to twitter and reddit), and how the 
+At the same time, structured governance is not guaranteed to be better for blockchains than unstructured governance. Governance which is structured and developed poorly is probably worse than unstructured governance. The structure is also just the starting point, good governance involves norms and practices that grow with and are reinforced by the community, becoming embedded within their culture. 
 
-
+The design of a governance system for a blockchain on paper is difficult to assess because the degree of fit with the makeup of the stakeholder community and their shared aims is important.
 
 This section will consider some blockchain projects that are conducting aspects of their decision-making on the commons. It will focus on:
 

@@ -23,6 +23,8 @@ Cons:
 
 PoS changes the infrastructure surrounding the common pool resource significantly, removing the miner constituency entirely and giving holders of the cryptocurrency a much larger role. In practice, holding the asset is usually just a qualification to participate in PoS, with the PoS constituency actually being composed of a subset of holders who choose to participate and take the necessary steps. At minimum, this usually means running a node with a wallet open that can respond when called to participate in block creation. Within some systems, participation in PoS may also involve a security deposit, which could potentially be lost if one is found to have violated the rules (by, for example, participating in more than one chain).
 
+## Delegated Proof of Stake
+
 Delegated Proof of Stake (DPoS) systems are a form of PoS where holders can delegate the staking power of their tokens to other actors. It is common for DPoS systems to have a fixed number of block producing nodes - EOS has 21, Ark 51, Lisk 101. Where the number of Block Producers (BPs) is fixed, the dynamic is similar to a persistent election in which holders vote to elect their preferred Block Producers (BPs). Tezos uses a form of DPoS where the number of BPs is not fixed, but rather there is a minimum stake (roll size) required to be eligible to bake, and more (delegated) stake means being selected to bake more often (although there are soft limits to prevent overly concentrated delegation). 
 
 BPs are the only entities that interact with the blockchain in DPoS systems, so direct control of the network lies with them. BPs are accountable to holders to the extent that the votes/delegations that appointed them can be withdrawn or re-allocated.
