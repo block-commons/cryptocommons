@@ -2,7 +2,7 @@
 title: "Premines and ICOs"
 date: 2019-09-10T15:26:15Z
 draft: false
-weight: 140
+weight: 194
 ---
 
 

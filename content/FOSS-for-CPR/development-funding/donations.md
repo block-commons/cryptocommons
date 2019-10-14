@@ -2,7 +2,7 @@
 title: "Donations and Patronage"
 date: 2019-09-10T15:26:15Z
 draft: false
-weight: 130
+weight: 193
 ---
 
 **Donation** based funding is familiar from other FOSS and CBPP domains - sustaining projects like VLC media player and Wikipedia (through the funding of the Wikimedia foundation). In the cryptocurrency space, informal ad hoc donations are relatively common. For example, Andreas Antonopoulos (Blockchain educator) [received](https://qz.com/1151233/andreas-antonopoulos-got-1-5-million-in-bitcoin-donations-after-roger-ver-bitshamed-him/) $1.5 million in BTC donations after revealing that he was not wealthy and being mocked for it. Vitalik Buterin (Ethereum co-founder) has [distributed](https://twitter.com/VitalikButerin/status/1075181710730506240) some 1,000 ETH donations on twitter. The fact that cryptocurrencies make monetary transfers easy for their users has meant that it is common for people to list donation addresses, and sometimes sizeable donations are made to those addresses.
