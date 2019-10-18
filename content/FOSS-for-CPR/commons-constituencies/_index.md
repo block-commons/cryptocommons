@@ -4,6 +4,7 @@ date: 2019-09-10T15:26:15Z
 draft: false
 weight: 170
 ---
+![](/commons-constituencies.jpg)
 
 A blockchain's stakeholders can be thought of as belonging to at least one of several different constituencies. 
 

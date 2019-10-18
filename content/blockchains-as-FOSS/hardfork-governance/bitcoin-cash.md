@@ -5,7 +5,7 @@ draft: false
 weight: 90
 description: ""
 ---
-
+![](/bitcoin-cash-hard-fork.jpg)
 
 Bitcoin Cash (BCH) was born at Bitcoin block height 478,559 (on 1 August 2017), when a faction of the ecosystem which rejected SegWit and preferred to scale the block size introduced its own hard fork change to the consensus rules. It is interesting to note that the BCH faction were forced to make a hard fork change to avoid the activation of SegWit (which was going to go ahead despite their objection, because it had enough miner support).
 

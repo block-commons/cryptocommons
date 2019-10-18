@@ -4,7 +4,7 @@ date: 2019-09-10T15:26:15Z
 draft: false
 weight: 190
 ---
-
+![](/software-developers.jpg)
 
 
 Blockchain developers can implement a change to their software which changes the consensus rules, but this will only take effect if the other constituencies apply this update. For some networks, there is only a single viable node implementation, and in those cases the other constituencies have limited choice in whether to accept or reject any proposed changes to the consensus rules. Rejecting a change may mean abandoning the chain which is being actively maintained in favor of a chain whose software is no longer updated, or is updated with weaker quality controls. Where multiple node implementations are available, other constituencies may have greater choice in whether to accept or reject proposed changes. Dominant implementations benefit from inertia and trust, as some participants may choose to defer to the judgement of a group that has already proven itself to be a reliable custodian of the code. 

@@ -4,7 +4,7 @@ date: 2019-09-10T15:26:15Z
 draft: false
 weight: 191
 ---
-
+![](/blockchain-development-funding.jpg)
 
 Of the Bitcoin constituencies referenced above, the motivation or incentive of the developers is most difficult to pin down. Miners are handsomely rewarded for the role they play in securing the network, merchants have built a business which relies on the network to function, and users avail of the service the network provides (or hold their coins in speculation that they will increase in value as more people wish to obtain them and use the service the network provides in future). 
 

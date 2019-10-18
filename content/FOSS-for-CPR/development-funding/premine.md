@@ -4,7 +4,7 @@ date: 2019-09-10T15:26:15Z
 draft: false
 weight: 194
 ---
-
+![](/premines-and-icos.jpg)
 
 In recent years, many blockchain projects have been setting up their common pool resource so that it is able to fund its own development, either initially or on an ongoing basis. The remainder of this section reviews the various mechanisms through which a blockchain can fund its own development.
 

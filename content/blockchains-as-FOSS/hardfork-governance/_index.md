@@ -6,6 +6,8 @@ weight: 80
 description: ""
 ---
 
+![](/hard-fork-governance.jpg)
+
 In a project like Linux or Apache, where there is disagreement on the direction development should take or any conflict that causes the group of people working on that software to split, forking the software is a relatively low-cost solution. As the full history of development is open to all, any party can copy the codebase and start building in a different direction from any point. This produces two versions of the software, and from that point, users have an additional option for which version they would like to use - and the choice of one user does not interfere with the choice or experience of others. 
 
 Where the project is supported by an organization, that organization's purpose is usually quite limited, e.g. hosting a website/repository/docs for the project and holding any intellectual property such as trademarks. In a community-splitting dispute, the faction that controls such an organization may have an advantage relative to a new fork (that must start with a different name and attract its own users), but that advantage is not insurmountable. In a sense, it doesn't matter whether the new fork overtakes its progenitor because they proceed as independent pieces of software and need have no further interaction with each other.

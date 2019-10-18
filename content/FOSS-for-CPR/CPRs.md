@@ -4,6 +4,7 @@ date: 2019-09-10T15:26:15Z
 draft: false
 weight: 160
 ---
+![](/common-pool-resources.jpg)
 
 A [Common Pool Resource](https://en.wikipedia.org/wiki/Common-pool_resource) (CPR) is one which is naturally open for consumption ("size or characteristics make it difficult to exclude potential beneficiaries from obtaining benefits of use") but which is subtractable (faces problems of congestion or overuse) - the latter point is the key differentiator to public goods. 
 

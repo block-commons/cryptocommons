@@ -4,7 +4,7 @@ date: 2019-09-10T15:26:15Z
 draft: false
 weight: 192
 ---
-
+![](/hold-while-building.jpg)
 
 As with other FOSS domains, developers are probably users. In Bitcoin's case, this means that early developers may well have been holders of some BTC while it appreciated in value by orders of magnitude.  Developers who held a significant amount of BTC through the price increases may now be independently wealthy and able to continue contributing without a need to generate an income from this or any other activity.
 

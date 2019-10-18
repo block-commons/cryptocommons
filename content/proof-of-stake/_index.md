@@ -4,7 +4,7 @@ date: 2019-09-10T15:26:15Z
 draft: false
 weight: 200
 ---
-
+![](/proof-of-stake.jpg)
 
 One of Bitcoin's key innovations was to use Proof of Work consensus to allow the processing of transactions to be permissionless - needing only an honest majority of mining power and the right incentives to ensure that the network would behave as intended in adversarial conditions.
 

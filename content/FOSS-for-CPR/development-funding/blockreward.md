@@ -4,7 +4,7 @@ date: 2019-09-10T15:26:15Z
 draft: false
 weight: 195
 ---
-
+![](/block-reward-funding.jpg)
 
 Some blockchains utilize a portion of ongoing **block rewards** to fund development. In the same way that miners are rewarded for the hashpower security they provide, those who build the infrastructure can also be rewarded for their work on an ongoing basis. This model is good for aligning the incentives of developers (or those who can expect to draw on the development funding) with the long term interests of the network. The funds will accrue over the course of years and decades, giving the likely beneficiaries an incentive to ensure that the network continues to improve its utility and value over the long term. It is difficult to make a fast exit with a large profit. 
 
