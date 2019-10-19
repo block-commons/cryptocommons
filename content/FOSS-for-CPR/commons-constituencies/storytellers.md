@@ -10,7 +10,7 @@ Bitcoin’s history is where we can learn most about these networks, because it 
 
 What are people using Bitcoin for? That is hard to say, because people buy, hold and exchange Bitcoin for a variety of reasons and there is a lack of good data on what their motivations are. 
 
-It is therefore the domain of storytellers, who are also responsible for distilling a highly technical construct (the blockchain) down into a relatable form that people can recognize and decide if they're interested in. 
+Telling us what Bitcoin is for is therefore the domain of storytellers, who are also responsible for distilling a highly technical construct (blockchain) down into a relatable form. There are a lot of different ways to look at Bitcoin, and different people will find the hook that gets them to take a closer look in different facets.  
 
 For a minority of transactions (those associated with criminality) Bitcoin's resistance to seizure and censorship would be the critical features. Bitcoin was for some time portrayed as the "currency of the dark web", primarily used for illicit purposes. This is still quite an influential narrative, that it serves black/grey market purposes and is used for money laundering. Cash and digital fiat currency are also used for these purposes, cryptocurrency may have some advantages in this regard but the use of a public distributed ledger to record all transactions in perpetuity must surely count as a significant down-side. 
 
@@ -26,7 +26,7 @@ That narrative became less saleable when "respectable" institutions started to s
 * To hold as an escape route or opt out of a local currency which has significant inflationary issues.
 * For ideological reasons, believing a move to decentralized currencies to be in society's best interests.
 
-The stories about why people use it define what it is for, and therefore narrative becomes an important component of governance on the crypto commons. If Bitcoin's rules are to change, that has to make sense to enough of its constituents to achieve a strong enough consensus to proceed.
+The stories about why people use it define what it is for, and therefore narrative becomes an important component of governance on the crypto commons. If Bitcoin's rules are to change, that change has to make sense to its constituents, to fit in with their [visions of Bitcoin](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c). 
 
 The priority afforded to use as electronic cash, store of value, global reserve currency and tool for the oppressed determines one's view on how development should proceed, what the priorities are and which trade-offs are worth making. 
 
@@ -35,3 +35,13 @@ Narrative can also used as a weapon against cryptocurrencies by external actors 
 Another popular narrative is that cryptocurrencies aren’t backed by anything. They are backed by the belief that they will be around in the future, still available to all and working as intended, reliably following the rules of their social contract.
 
 The storytellers disseminate their versions of the narrative and social contract the way they see it. They buy into the story and understand that achieving their vision of cryptocurrency's place in the world depends on spreading the word to people who are unaware or ambivalent. Within the ecosystem, the same stories serve to bolster the cohesion of stakeholders around a shared version of the narrative and steer its governance accordingly. 
+
+### Narrative Control
+
+The storytellers that people listen to are important, so too are the places where they tell their stories. Although the discourse is generally public, much of it happens on platforms where access to participate is (or can be) restricted. The /r/bitcoin subreddit for example is widely regarded as having quite heavy-handed moderation, where voicing support for certain perspectives on Bitcoin or cryptocurrency is likely to result in a ban. 
+
+On Twitter, where much of the Bitcoin and cryptocurrency debate seems to happen, some well known Bitcoiners routinely [block](https://twitter.com/NickSzabo4/status/1169992390339227648) other users for voicing opinions which go against their version of the Bitcoin story. The "social layer" is important for Bitcoin, because ultimately Bitcoin needs its users to be united around a shared understanding of how it should work. When well known and respected people voice opinions which are contrary to the dominant Bitcoin narrative, they are in effect weakening the consensus at the social layer.
+
+Some Bitcoiners have adopted the position that this kind of deviation should be rejected or punished, and offenders should be excluded/blocked or harassed and harangued. The subject of [memetic warfare](https://coinspice.io/news/btc-maximalists-call-for-war-memes-trolling-hoping-to-crush-submit-perceived-enemies/) has been presented at "true" Bitcoin conferences - [How to Meme Bitcoin to the Moon](http://diyhpl.us/wiki/transcripts/bit-block-boom/2019/how-to-meme-bitcoin-to-the-moon/).
+
+When governance is informal it is difficult to draw a boundary around it, it permeates every facet of the ecosystem. When different factions form supporting different choices, this redraws the contours and boundaries of the commons and turns them into a conflict zone.  
