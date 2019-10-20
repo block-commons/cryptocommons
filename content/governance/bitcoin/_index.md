@@ -6,7 +6,7 @@ draft: false
 description: ""
 weight: 220
 ---
-
+![](/bitcoin.jpg)
 
 In this section, relevant episodes from the scaling debate in Bitcoin's history are revisited in light of the above framework. It should be noted that these episodes occurred as the resolution of a conflict within the Bitcoin community about how to scale which had persisted for years. The two sides in this conflict can be broadly construed as those who wanted to scale on chain (with bigger blocks) and those who wanted to scale off chain with "layer 2" solutions like [Lightning Network](https://en.wikipedia.org/wiki/Lightning_Network):
 

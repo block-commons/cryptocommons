@@ -6,6 +6,7 @@ draft: false
 description: ""
 weight: 240
 ---
+![](gitcoin.jpg)
 
 [Gitcoin](https://gitcoin.co/) is a platform which aims to connect people with skills and desire to work on FOSS projects with people or organizations who have a need and resources to fund the required work. At its core is a bounty type approach where jobs are created with prospective payouts available to whoever completes them, but there are also other mechanisms through which people can receive funding (e.g. grants). Gitcoin distributes funding in the form of cryptocurrency.
 

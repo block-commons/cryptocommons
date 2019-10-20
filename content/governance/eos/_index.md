@@ -6,7 +6,7 @@ draft: false
 description: ""
 weight: 260
 ---
-
+![](/eos.jpg)
 
 EOS uses a Delegated Proof of Stake (DPoS) system in which token holders vote with their tokens to elect 21 Block Producers (BPs). EOS BPs must run nodes that have relatively high specifications to participate in block production - this is fundamental to EOS' solution to scaling and allowing a large number of transactions per second. 
 

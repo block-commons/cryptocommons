@@ -18,9 +18,11 @@ Successful blockchains are powerful in a way that is new to FOSS software projec
 
 At the same time, structured governance is not guaranteed to be better for blockchains than unstructured governance. Governance which is structured and developed poorly is probably worse than unstructured governance. The structure is also just the starting point, good governance involves norms and practices that grow with and are reinforced by the community, becoming embedded within their culture. 
 
-Commons based governance of blockchains can happen either "on chain" or "off chain". 
+Commons based governance of blockchains can happen either "on chain" or "off chain". On chain governance processes benefit from the same assurances as transactions, immutability and permissionless access being particularly relevant for governance. However, on chain governance can add to the size and complexity of the blockchain, as an additional class of data that must be incorporated. 
 
-The design of a governance system for a blockchain on paper is difficult to assess because the degree of fit with the makeup of the stakeholder community and their shared aims is important.
+Dash treasury governance happens largely on chain (submission of proposals, voting on proposals and translating voting outcomes to spending transactions), but the detail of proposals and any discussion around them occurs off chain on other platforms. Decred's consensus rule change governance happens on chain, tickets vote on chain in each block and the results are automatically interpreted and applied by nodes as part of the protocol. Decred also has a significant off chain governance component, with its treasury-related proposals, discussion and voting occurring off chain, although "anchored to" the blockchain in certain ways. 
+
+The design of a governance system for a blockchain on paper is difficult to assess, because the degree of fit with the makeup of the stakeholder community and their shared aims is important.
 
 This section will consider some blockchain projects that are conducting aspects of their decision-making on the commons. It will focus on:
 

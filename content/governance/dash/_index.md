@@ -6,7 +6,7 @@ draft: false
 description: ""
 weight: 290
 ---
-
+![](/dash.jpg)
 #### Consensus
 
 Dash uses PoW consensus with a special role for "master nodes" that have collateral of 1000 DASH (at time of writing in June 2019, around $163,000), this model is referred to as "[Proof of Service](https://docs.dash.org/en/stable/masternodes/understanding.html#proof-of-service)" (PoSe), or more commonly by reference to masternodes (there are [many projects which have emulated the master node concept](https://masternodes.online/)). This is conceptually similar to Proof of Stake, in that master nodes must demonstrate that they have something at stake in order to participate. Master nodes must also continuously run a node on a server which meets certain minimum requirements. The network's InstantSend and PrivateSend features are provided through master nodes. Dash also recently added " [ChainLocks](https://blog.dash.org/mitigating-51-attacks-with-llmq-based-chainlocks-7266aa648ec9)" which are checkpoints constructed by a set of master nodes that make double spend attacks harder to execute without controlling a significant proportion of master nodes. Dash does not require master node collateral to be "staked", meaning that a master node owner can liquidate their collateral at any point.

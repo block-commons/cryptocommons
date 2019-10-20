@@ -6,7 +6,7 @@ draft: false
 description: ""
 weight: 230
 ---
-
+![](ethereum.jpg)
 
 Ethereum is similar to Bitcoin in that it utilizes pure PoW consensus, but Ethereum has since its beginning planned to switch to Proof of Stake (PoS) consensus. While Bitcoin's developers and ecosystem prioritize stability and conservatism, fundamental changes to how the network operates in an effort to adapt and improve are an accepted part of Ethereum's approach.  Ethereum's developer constituency is strong as a consequence. Ecosystem participants understand that the common pool resource is still under construction and that the people building it need a relatively free hand to make changes.
 

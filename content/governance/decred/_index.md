@@ -6,7 +6,7 @@ draft: false
 description: ""
 weight: 280
 ---
-
+![](/decred.jpg)
 
 Decred uses a hybrid PoW/PoS method of reaching consensus, PoW miners perform the same basic function as in Bitcoin but the network's rules are designed to give PoS voters power over the miners. Holders of DCR (Decred's native asset) can time-lock it in exchange for [tickets](https://docs.decred.org/proof-of-stake/overview/), and voting with these tickets is how Decred makes decisions about the consensus rules of the network and how development should be funded.
 

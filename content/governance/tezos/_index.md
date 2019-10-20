@@ -6,7 +6,7 @@ draft: false
 description: ""
 weight: 270
 ---
-
+![](/tezos.jpg)
 Tezos uses Delegated Proof of Stake (DPoS) consensus, but does not put a cap on the number of BPs ("bakers") - they refer to this as [liquid proof of stake](https://medium.com/tezos/liquid-proof-of-stake-aec2f7ef1da7). In principle the maximum number of bakers can be quite large, it is determined by the minimum "roll size", but bakers that control more XTZ (Tezos' native currency) will bake more blocks and have a more reliable income.
 
 Tezos is built around a process for amending the protocol (rules of the network) in which bakers vote over a series of phases to select, test and apply a set of changes to the protocol. Baking nodes all follow the outcomes of these votes to decide which version of the protocol they should run, in what has been described as a self-amending protocol. On Aug 29 Tezos [launched](https://medium.com/@tezosagora/enter-agora-c9e545ce4862) its [Agora](https://www.tezosagora.org/) platform, which tracks the outcomes of current and past protocol change cycles so that stakeholders can follow this. Agora also links to a forum post for each proposal where it can be discussed, this is a new feature and so far none of the proposals have significant discussion.

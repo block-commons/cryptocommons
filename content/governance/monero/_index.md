@@ -6,7 +6,7 @@ draft: false
 description: ""
 weight: 250
 ---
-
+![](/monero.jpg)
 
 Monero is a privacy-focused PoW cryptocurrency with no formal governance that makes regular hard fork upgrades. These hard fork upgrades include technical advances (like [bulletproofs](https://www.ccn.com/monero-forks-bulletproofs-integration-kicks-off-new-era-of-privacy-speed/), which decrease the on chain footprint of transactions) and also changes to the hashing function. 
 
