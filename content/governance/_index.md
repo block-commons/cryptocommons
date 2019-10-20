@@ -8,7 +8,7 @@ weight: 210
 
 Considering public blockchains as ecosystems surrounding the production of a common pool resource gives us a framework for considering how they are governed, and how well this fits with their intended purpose. The backbone of these networks is FOSS, a commons-based non-rival public good, but the resource the network produces is a rival good, finite and vulnerable to over-exploitation (without a mechanism like transaction fees which regulates access to the common pool resource).
 
-The developers who write the core software which objectifies the consensus rules, and the entities that can produce new blocks (PoW miners, block producers), are key constituencies in every project. There are also roles for other constituencies in the ecosystem (e.g. users, merchants, layer 2 service providers) to play, with the scale and clout of these constituencies varying significantly between projects. Hard fork based governance where participants choose freely whether to adopt a change in the rules leads to chain splits, which introduces the market (via exchanges) as an arbiter of which chain has greater legitimacy or promise. 
+The developers who write the core software which objectifies the consensus rules, and the entities that can produce new blocks (PoW miners, block producers), are key constituencies in every project. There are also roles for other constituencies in the ecosystem (e.g. users, merchants, storytellers, layer 2 service providers) to play, with the scale and clout of these constituencies varying significantly between projects. Hard fork governance where participants choose freely whether to adopt a change in the rules leads to chain splits, which introduces the market (via exchanges) as an arbiter of which chain has greater legitimacy or promise. 
 
 From the commons-based perspective of this resource, the most important question is how much of the decision-making process actually occurs on the commons? Where a blockchain's commons are dominated by a small number of entities like corporations or foundations, governance can be dominated by the non-public interactions within and between these entities.
 
@@ -17,6 +17,8 @@ For the portion of a blockchain's governance that occurs on the commons, the key
 Successful blockchains are powerful in a way that is new to FOSS software projects. Unstructured governance may prove to be a weakness, if it allows elites to capture the governance process with behind the scenes machinations. 
 
 At the same time, structured governance is not guaranteed to be better for blockchains than unstructured governance. Governance which is structured and developed poorly is probably worse than unstructured governance. The structure is also just the starting point, good governance involves norms and practices that grow with and are reinforced by the community, becoming embedded within their culture. 
+
+Commons based governance of blockchains can happen either "on chain" or "off chain". 
 
 The design of a governance system for a blockchain on paper is difficult to assess because the degree of fit with the makeup of the stakeholder community and their shared aims is important.
 

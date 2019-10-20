@@ -1,5 +1,5 @@
 ---
-title: "Hold while Building"
+title: "Developer Holders"
 date: 2019-09-10T15:26:15Z
 draft: false
 weight: 192
@@ -10,9 +10,11 @@ As with other FOSS domains, developers are probably users. In Bitcoin's case, th
 
 For early developers of a young blockchain project, obtaining some of the underlying asset makes sense if one believes that one's efforts will help to increase its value. This also serves to align one's incentives with the health of the network, and allows one to benefit financially from price appreciation that may be in some part due to one's work.
 
-Developers who do not depend on any external party for an income are in the strongest position to try and influence the development of a blockchain project in the way that they see fit. Dependence on an external party for income may mean deferring to that party's judgement about the direction development takes.
+Developers who do not depend on any external party for an income are in the strongest position to push the development of a blockchain project in the direction that they see fit. Dependence on an external party for income may mean deferring to that party's judgement about the direction development takes.
 
-The logic of "buy coins at $Y and invest effort to improve network's utility, increase demand for coins and raise their value to $Y x 10" also applies to organizations. Any large holder of a cryptocurrency is incentivized to see its price increase, and in some cases it may make sense to invest additional resources to fund developers' work. This scenario has the makings of a tragedy of the commons. As every holder benefits equally from price appreciation, each would prefer that the investment to improve utility came from other holders. Such investment may however have some influence payoff, depending on the relationship between the investor and the developers they fund. 
+The logic of "buy coins at $Y and invest effort to improve network's utility, increase demand for coins and raise their value to $Y x 10" also applies to organizations. Any large holder of a cryptocurrency is incentivized to see its price increase, and in some cases it may make sense to invest additional resources to fund developers' work. 
+
+This scenario has the makings of a tragedy of the commons. As every holder benefits equally from price appreciation, each would prefer that the investment to improve utility came from other holders. Such investment may however have some influence payoff, depending on the relationship between the investor and the developers they fund. 
 
 Blockstream is a company founded in 2014 by a group of Bitcoin developers with a [mission](https://blockstream.com/about/) to "build crypto-financial infrastructure based on Bitcoin".
 
@@ -28,11 +30,13 @@ In addition to revenue-generating services, Blockstream may itself hold some of 
 
 It is worth noting that Blockstream's efforts to enhance Bitcoin go beyond the Core software and its own revenue-generating products to encompass things like an array of [satellites](https://www.forbes.com/sites/michaeldelcastillo/2018/12/17/who-needs-verizon-blockstream-broadcasts-entire-bitcoin-blockchain-from-space/#7536a7a95a80) continually broadcasting the entire Bitcoin blockchain. These allow a user anywhere in the world to obtain the data and verify the current state of the chain without even an internet connection (although a connection is still required to broadcast transactions). Investments such as this demonstrate that it is the common pool resource or network that matters, and that the task of improving its utility does not stop at the boundaries of software but can spill over to include the many other aspects which give that resource value.
 
-More recently still, Blockstream [revealed](https://blockstream.com/2019/08/08/en-mining-launch/) that it had been growing its own PoW mining operation since the issue with PoW miners over SegWit in 2017 (see [here](/governance/bitcoin)).
+More recently still (Aug 2019), Blockstream [revealed](https://blockstream.com/2019/08/08/en-mining-launch/) that it had been growing its own PoW mining operation since the issue with PoW miners over SegWit in 2017 (see [here](/governance/bitcoin)). This is quite an interesting development, as it entails the dominant entity in the developer constituency also becoming a significant player on the mining constituency.
 
 It is this spillover and the degree to which the software is enmeshed in a resource with other important attributes that makes CBPP a useful lens to apply. I will argue below that the path to realizing this technology's potential lies in bringing more of the aspects that give the resource its strength and value "onto the commons".
 
 Looking beyond Bitcoin, there are a number of other significant funding models to consider. I will describe some of these, along with some historical context.
+
+### Historical Context
 
 Early cryptocurrencies could be mined effectively with a variety of consumer hardware, in the early days CPUs were sufficient, later GPUs came to dominate mining and later ASICS (specialized chips which only mine a particular set of cryptocurrencies) were developed. As better hardware becomes available, the older hardware quickly becomes unprofitable to use. At the launch of Bitcoin, Litecoin and other early blockchains, mining was the domain of enthusiasts using whatever hardware they had available. The competition to find new blocks and obtain the rewards was not fierce, and so any dedicated enthusiast could expect to obtain a reasonably large share of the rewards. For very early contributors, all they had to do was set up one or more of their computers to mine Bitcoin and they would be able to accumulate some. There was a technical barrier here too, where a contributor would have the appropriate skills to set up a miner but outsiders (particularly non-technical people) would have found this much more difficult. 
 

@@ -1,5 +1,5 @@
 ---
-title: "Proof of Stake consensus"
+title: "Proof of Stake Consensus"
 date: 2019-09-10T15:26:15Z
 draft: false
 weight: 200
