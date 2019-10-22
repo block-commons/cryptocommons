@@ -9,6 +9,6 @@ weight: 5
 
 The book is available in pdf and epub format, these are a bit rough for now (although all the content is there) and I hope to polish them up for release.
 
-* [ppcc-0.52.epub](/ppcc-0.52.epub)
-* [ppcc-0.52.pdf](/ppcc-0.52.pdf)
+* [ppcc-0.58.epub](/ppcc-0.58.epub)
+* [ppcc-0.58.pdf](/ppcc-0.58.pdf)
 
