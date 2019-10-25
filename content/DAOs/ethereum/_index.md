@@ -30,3 +30,8 @@ One of the lessons to be learned from the DAO is to be wary of complexity when d
 In hindsight, it seems hard to believe that people were willing to entrust so much money to a brand new initiative that was deploying its very first iteration in the wild. Even without the fatal flaws, one wonders how well such an ambitious first attempt at a DAO would have made use of the resources which had been allocated to it. DAOs became less popular for a time after The DAO episode, but in mid-2019 we are witnessing a rapid proliferation of this form. This time around, even the DAOs that have been online for months or years are not being entrusted with more than a few million dollars, and we are yet to see compelling evidence that they will make efficient use of the resources that are allocated to them.
 
 It has recently been announced that we will see an attempt to "resurrect" The DAO. A new [attempt](https://github.com/the-dao/whitepaper) to build a DAO with the same objectives is forthcoming and will perhaps give us the opportunity to see how the concept fares when it doesn't get exploited at launch.
+
+{https://medium.com/axialabs/relearning-to-dao-craft-b815b3e3f8ef}
+
+{mention MetaCartel}
+
