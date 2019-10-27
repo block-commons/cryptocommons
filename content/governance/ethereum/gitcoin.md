@@ -1,7 +1,7 @@
 ---
 title: "Gitcoin and Radical Liberalism"
 date: 2019-09-11T20:45:21+01:00
-lastmod: 2019-09-11T20:45:21+01:00
+lastmod: 2019-10-27T20:45:21+01:00
 draft: false
 description: ""
 weight: 240
@@ -18,8 +18,16 @@ The [report](https://gitcoin.co/blog/radical-results-gitcoins-25k-match/) on the
 
 Linking human identities to blockchain identities, or ensuring that a single human can only have one identity on chain, is a huge challenge. It could probably only be achieved by heavy reliance on centralized entities, which would then become points of weakness. There are many people who would opt out of or resist any system which attempted to force association between their offline identity and on chain addresses.
 
-Gitcoin is one interesting example of a novel approach to solving the problem of FOSS infrastructure funding, but it [does not itself have a firm funding model yet](https://gitcoin.co/not_a_token), and is currently exploring its options (which seem to include a token sale). There is an open EIP ([1789](https://github.com/ethereum/EIPs/issues/1789)) from a Gitcoin co-founder Kevin Owocki which proposes that inflation funding (20% of issuance) be allocated to Ethereum "ecosystem stewardship".
+Gitcoin is one interesting example of a novel approach to solving the problem of FOSS infrastructure funding, but it [does not itself have a firm funding model yet](https://gitcoin.co/not_a_token), and is currently exploring its options (which seem to include a token sale). There is an open EIP ([1789](https://github.com/ethereum/EIPs/issues/1789)) from a Gitcoin co-founder Kevin Owocki which proposes that inflation funding (20% of issuance) be allocated to Ethereum "ecosystem stewardship". 
 
-Gitcoin and the "[RadicalxChange movement](https://www.coindesk.com/understanding-the-radicalxchange-movement-and-its-cypherpunk-appeal)" is a good example of experimentation with new economic models in the blockchain context.
+A third round of Gitcoin funding with quadratic matching occurred in Oct 2019, and was [reported on in detail by Vitalik Buterin](https://vitalik.ca/general/2019/10/24/gitcoin.html). In total $163k was donated to 80 projects by 477 contributors, augmented by a matching pool of $100k.
+
+One of the comments Buterin made was about the relatively low share of funding awarded to Gitcoin itself (it received 0.9% of funding in the round). He praised Gitcoin's efforts and stated that the Ethereum Foundation and Consensys had been giving grants to Gitcoin which included covering some of their running costs. 
+
+Vitalik Buterin gives an [account](https://vitalik.ca/general/2019/10/24/gitcoin.html) of the different projects that were up for donations and where they fit in the Ethereum ecosystem - this kind of context is invaluable for interpreting what the results mean in terms of the effect of voting method. He observed that the grant-giving in this case was less dominated by technical software development proposals, and that QV's effect was to distribute funds in a way which was more aligned with popular opinion in the community.
+
+Buterin's post also explores how a change to the implementation of QV in round 3 affected the distribution of matching funds. Tweaks to the implementation meant that the presence of any large individual donations would cause the amount of matching funds received to be considerably reduced.
+
+Gitcoin and the "[RadicalxChange movement](https://www.coindesk.com/understanding-the-radicalxchange-movement-and-its-cypherpunk-appeal)" is a good example of experimentation with new funding and economic models in the blockchain context. 
 
 Blockchains would appear to be ideal laboratories for experimentation with approaches to governance and economics. They have the capacity to apply rules rigidly, they're as flexible as software and they have all the problems of an emerging technology and mode of production to solve.
