@@ -7,16 +7,30 @@ description: ""
 weight: 400
 ---
 
+![](/blockchain-for-what.jpg)
+
+### Cryptocurrency
+
 
 > Permit me to issue and control the money of a nation, and I care not who makes its laws! 
 >
 > Apocryphal Quote, 1838
 
-A good blockchain is good at ensuring that network participants follow the rules, and that everyone who is interested can understand the rules and audit the chain. It minimizes the need to trust other parties, greatly expanding the ways in which parties who do not trust each other can interact productively. The big wins here are not having to trust the money issuer to implement their issuance policy as stated, and not having to trust intermediaries like banks to live up to their commitments. Adherence to the rules can be verified on the blockchain, access cannot be restricted because of the network's distributed peer-to-peer nature. 
+A good blockchain is good at ensuring that network participants follow the rules, and that everyone who is interested can understand the rules and verify that they are being enforced. It minimizes the need to trust other parties, greatly expanding the ways in which parties who do not trust each other can interact productively. Bitcoin's big wins are not having to trust the money issuer to implement their issuance policy as stated, and not having to trust intermediaries (like banks) to live up to their commitments in order to have control of one's assets. Adherence to the rules can be verified on the blockchain, access cannot be restricted because of the network's distributed peer-to-peer nature.
 
-Because the blockchain's infrastructure is made from FOSS and a public record shared by thousands of nodes, it is impossible for a single authority to exercise complete control over any blockchain. Any subset of participants can create their own version of a blockchain at any time, modifying any rules or parameters they want to. This makes the form robust to dictatorial control without participants' consent. 
+Keeping the barrier to becoming a fully fledged participating node low means that there can be many of these. Easy access to full nodes is what makes these networks robust to any effort to shut them down. The network benefits from many peers, and requires some minimum threshold in order to achieve meaningful global accessibility.
 
-Keeping the barrier to becoming a fully fledged participating node low means that there can be many of these. Easy access to full nodes is what makes these networks robust to any effort to shut them down. 
+Bitcoin's phenomenal success so far is a good indicator that blockchains are good for running a distributed ledger that tracks ownership and payments- i.e. a currency. The market and mindshare penetration achieved by product that did not exist 11 years ago indicates that there is a demand for the service that Bitcoin provides. Bitcoin's more or less unspoiled record of enforcing its rules continually over the last 10 or so years has established credibility for blockchain as a means to operate a robust immutable censorship-resistant distributed ledger.
+
+### Software/Asset/Fuel/Network
+
+A blockchain's infrastructure is made from FOSS and a public record shared by thousands of nodes, and so it is impossible for a single authority to exercise complete control over it. Any subset of participants can create their own version of a blockchain at any time, modifying any rules or parameters they want to. This makes the form robust to dictatorial control without participants' consent. 
+
+Conversely, this flexibility could cast doubt over a cryptocurrency's monetary policy, issuance schedule and supply cap. Any of the network's rules _can_ change if there is consensus "at the social layer". Furthermore, miners _could_ behave in ways which makes the network depart from its social contract, as was [suggested in relation to the Binance hack](/foss-for-cpr/commons-constituencies/miners/), where miners may have been offered a bounty to roll back the chain and edit one transaction. There is no definitive version of the social contract, and different people or groups may hold different views on how to interpret it in an unforeseen situation. 
+
+The discussion of any possibility that Bitcoin's rules may be altered is frowned upon by many who are cryptocurrency proponents, as the very act of discussing it serves to shift the [Overton Window](https://en.wikipedia.org/wiki/Overton_window) of acceptable discourse. When decision-making is informal it is enmeshed in the discourse. Discussion of an undesirable possibility, especially when the discussion is in neutral or accepting tones, increases the perception that this scenario may unfold. Public discussions may also serve to increase the likelihood that the hypothesized event will occur in the future. Everyone who reads these discussions is alerted to the possibility, some bad actors may seek to bring it about and some constituents may be persuaded that it represents an acceptable deviation from the social contract.
+
+At the same time, open discussion of weaknesses can lead to ideas and approaches which address or mitigate them. This is in essence a conundrum of whether to embrace the adaptable FOSS nature of blockchains and improve iteratively, or to reject adaptability as dangerous and instead seek ossification, promoting the characterization of cryptocurrency as an asset or commodity. 
 
 Cohesion is an important consideration on the crypto commons, because there is little friction involved in forking a chain - it can happen accidentally. Any persistent chain split means a fragmentation of the ecosystem surrounding it. A blockchain is worth nothing if there are multiple conflicting versions of it and users cannot reliably differentiate which one to follow. Any split weakens network effects and diminishes the size and diversity of the ecosystem producing the common pool resource and giving it value. 
 
@@ -38,19 +52,19 @@ The distribution of voting rights is also important, the system can be only as d
 
 Human attention and the capacity to dedicate time to thought and participation is one of the most vital and constrained resources for blockchains that aim to decentralize their decision-making. This limitation, and the difficulties and costs associated with enabling large scale deliberation and decision-making (Nick Szabo's [Social Scalability](https://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html)), are the basis of the doctrine that Bitcoin [does not have governance](https://twitter.com/adam3us/status/1132416277258145794). 
 
-Bitcoin does have governance, because it is a network run by people and those people have choices about which software they run and how that software implements the consensus rules. Developers have choices about which soft or hard forks they code up. The decisions of miners about which code to run are also very important. 
+Bitcoin does have governance, because it is a network run by people and those people have choices about which software they run and how that software implements the consensus rules. Developers have choices about which soft or hard forks they code for. The decisions of miners about which code to run are also very important. 
 
 Deferring to the judgment of a small group of well established contributors, along with a resolution that changes to consensus rules will be constrained to soft forks which are unambiguous technical improvements - is a reasonable position to take in the absence of any way to empower the Bitcoin ecosystem to make collective decisions. 
 
 There is no mode of governance proven to work well for a decentralized blockchain in the long run, the long run just started. So, the challenge is to invent one, or hope that dogma can be used to paper over the cracks in rough consensus as practiced by other FOSS projects. 
 
-Resistance to change and minimization of the role of active decision-making is a valid strategy that could in many cases produce better results than adoption of more formal governance. The details matter, especially for on chain governance - who has voting rights, what are they trying to achieve, how are they coordinating.
+Resistance to change and minimization of the role of active decision-making is a valid strategy that could in many cases produce better results than adoption of more formal governance. The details matter, especially for on chain governance - who has voting rights, what are they trying to achieve, how are they coordinating?
 
 My view is  that developing commons-based decentralized governance for (and on) blockchains is vital to unlocking the technology's potential. The dominant cryptoasset networks will be those with the strongest production ecosystems. Weight of numbers counts but so does the capacity to effectively align the incentives of the parties who produce and manage the common pool resource. 
 
-Time spent arguing in a stalemate is time wasted. The disagreements between conflicting parties in a blockchain's ecosystem can be loud and vitriolic, as was the case with the block size debate, BCH hard fork and SegWit2x failure. When controversies arise, "no governance" looks more like a failure of governance, as various constituencies try whatever they can think of to tip the balance in their favor.
+Time spent arguing in a stalemate is time wasted. The disagreements between conflicting parties in a blockchain's ecosystem can be loud and vitriolic, as was the case with the Bitcoin block size debate, BCH hard fork and SegWit2x failure. When controversies arise, "no governance" looks more like a failure of governance, as various constituencies try whatever they can think of to tip the balance in their favor.
 
-Formal governance has associated costs, and when a project is small this cost may outweigh the benefits. A formal approach to governance must be broadly perceived as legitimate by ecosystem participants or it will have limited use. It would be difficult to establish the legitimacy of formal governance which is added to a blockchain that is already up and running, because this will inevitably diminish the power of some constituency and that constituency is likely to reject such a change. My view is that the strongest governance can be achieved with an approach that is present from the genesis of a blockchain, at least in the form of a principle embedded in the social contract. There are many examples of blockchain communities who lack an established method of decision-making and are now struggling to make collective decisions (see Ethereum and Zcash for some recent examples).   
+Formal governance has associated costs, and when a project is small this cost may outweigh the benefits. A formal approach to governance must be broadly perceived as legitimate by ecosystem participants or it will have limited utility. It would be difficult to establish the legitimacy of formal governance which is added to a blockchain that is already up and running, because this will inevitably diminish the power of some constituency and that constituency is likely to reject such a change. My view is that the strongest governance can be achieved with an approach that is present from the genesis of a blockchain, at least in the form of a principle embedded in the social contract. There are many examples of blockchain communities who lack an established method of decision-making and are now struggling to make collective decisions (see [Ethereum](/governance/ethereum/) and [Zcash](/governance/zcash/) for some recent examples).   
 
 When the principles of governance are established *a priori*, all network participants implicitly accept these principles when they decide to engage. This provides a strong foundation for governance, for as long as the method of governance presented at the outset is adhered to. Projects like Decred and Tezos have incorporated methods of changing their rules which extend to changing the decision-making process itself. In principle, this offers a level of flexibility which should allow for the legitimacy of this method of decision-making to be maintained. 
 
@@ -78,7 +92,7 @@ This kind of activity in aggregate will determine what the potential of blockcha
 
 Commons based peer production is driven by the doers, people who want something badly enough to contribute to building it. Blockchains allow us to build global ledgers that cannot be corrupted or shut down and which people cannot be prevented from accessing (provided a minimal degree of hardware, connectivity and freedom). 
 
-### Governments on the Commons
+### Governments on the Crypto Commons
 
 Estonia has been [pushing the boundaries of the "digital state"](https://www.pwc.com/gx/en/services/legal/tech/assets/estonia-the-digital-republic-secured-by-blockchain.pdf) for some time, and part of their offering to citizens now relies on a blockchain-type system. This is not a public blockchain powered by PoW consensus like Bitcoin, but rather an alternative permissioned system which actually pre-dates Bitcoin. One key benefit derived from this blockchain-type system is that it is not possible to change data quietly. Data is not immutable as it would be in a cryptocurrency, but rather there are strict controls on who can access and update the data, and this cannot be done without leaving a trace.
 
@@ -91,3 +105,9 @@ The system allows for much swifter and easier access to the data about an indivi
 A comprehensive [report](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf) by the UK Government's Chief Scientific Adviser in 2016 also saw great potential in blockchain technology for transforming the delivery of public services, including reduced cost of operation and fraud, greater transparency of transactions between government agencies and citizens, greater inclusion of people who are on the fringes of the financial system and reduced costs of protecting citizens' data. Importantly, this report sees a major role for digital currency applications, along with potential in new forms of contract and new ways to build applications. Unfortunately the report does not seem to have been followed up with action, partially due to the distraction caused by Brexit.
 
 The lack of urgency with which most national governments have embraced blockchain technology has created opportunities for non-state actors to fill these gaps. 
+
+[Oct 28 2019](https://www.businessinsider.com/china-bullish-on-blockchain-xi-jinping-2019-10): 
+
+> ...Chinese President Xi Jinping said China must make "greater effort" to develop and apply blockchain technologies and gain an "edge over other major countries."
+
+If a major international power like China starts exploring and developing the potential of blockchains this could spur other governments to consider increasing their own experimentation or adoption efforts. Given the enormous variety of ways in which one could attempt to use blockchain technology, the underlying intention of the innovators is likely to have a significant steering effect on how the technology develops. 
