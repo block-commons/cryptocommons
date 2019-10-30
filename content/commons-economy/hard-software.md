@@ -7,6 +7,8 @@ description: ""
 weight: 420
 ---
 
+![](/hard-software.jpg)
+
 Our software infrastructure for handling data and security in general is poor, as evidenced by the many breaches of personal information and ransomware attacks. The adapted industrial method of organizing software development has a lot of issues. The health and profitability of the producing organization comes first, the software is a means to that end.
 
 There is an expanse of room to improve upon the organization of software production and the means of incentivizing this. In my view it is important to look after the intrinsic motivation of workers, especially software engineers and especially those who are working on public infrastructure. When people are working on vital infrastructure which is only understood by a relatively small number of contributors, it benefits us all if they are dedicated to the cause of maintaining it well. 

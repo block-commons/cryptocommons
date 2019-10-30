@@ -7,6 +7,8 @@ description: ""
 weight: 440
 ---
 
+![](/conclusion.jpg)
+
 This is the end, thanks for reading! Here are some things I would suggest as key takeaways:
 
 - The blockchain space is worth watching if you're interested in commons based or digitally native means of production. 

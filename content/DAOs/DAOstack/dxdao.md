@@ -6,6 +6,7 @@ draft: false
 description: ""
 weight: 365
 ---
+![](/dxdao.jpg)
 
 dxDAO is a DAO that has been [created to govern the DutchX protocol](https://blog.gnosis.pm/introducing-the-dxdao-27ec4301eced). 
 

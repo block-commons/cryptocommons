@@ -7,6 +7,8 @@ description: ""
 weight: 410
 ---
 
+![](/commons-based-economy.jpg)
+
 If "software is eating the world", then the means of producing that software will come to define the new epoch. Proprietary software and walled gardens controlled by corporate entities represent the transfer and emulation of industrial era practices into the "digital economy". Top-down control within the corporation means that the constraints of profitability are imposed above all other considerations. As the role that some of these big tech companies fill has become more like the provision of important public utilities, it has become clear that they are generally not very good at performing this role. The frequency of damaging hacks and misuse of data is testament to this.
 
 Commons based peer production is native to the internet, it represents the way in which people can efficiently work together on a larger goal when communication costs are reduced to effectively zero. It is an excellent choice for the production of non-rival goods, where use by one party does not restrict use by others. With present levels of communications technology the category of non-rival goods has expanded to include all software, digital media and information resources.

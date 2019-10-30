@@ -7,6 +7,7 @@ description: ""
 weight: 340
 ---
 
+![](/daostack.jpg)
 
 DAOstack pitches itself more directly as a platform and toolset for creating DAOs, "An operating system for collective intelligence". 
 

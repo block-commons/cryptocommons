@@ -7,8 +7,9 @@ description: ""
 weight: 430
 ---
 
+![](/crypto-crossroads.jpg)
 
-Software is infinitely reproducible, but good software remains a scarce commodity. When software for a specific task is required, options are limited and there is no guarantee of their quality. Access to this software may come at a cost, denominated in money or one's personal data. 
+Software is infinitely reproducible, but good software remains scarce. When software for a specific task is required, options are limited and there is no guarantee of their quality. Access to this software may come at a cost, denominated in money or one's personal data. 
 
 Cryptocurrencies have shown anyone who's paying attention that the digital commons offers new affordances for producing digital money or assets. My thesis is that the means of production of these common pool resources is as significant as the resources themselves, when considering the trajectory of blockchain technology or the cryptocurrency movement over the long term.
 

@@ -28,13 +28,15 @@ That narrative became less saleable when "respectable" institutions started to s
 
 The stories about why people use it define what it is for, and therefore narrative becomes an important component of governance on the crypto commons. If Bitcoin's rules are to change, that change has to make sense to its constituents, to fit in with their [visions of Bitcoin](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c). 
 
-The priority afforded to use as electronic cash, store of value, global reserve currency and tool for the oppressed determines one's view on how development should proceed, what the priorities are and which trade-offs are worth making. 
+The priority afforded to different use cases (electronic cash, store of value, global reserve currency, tool for the oppressed) determines one's view on how development should proceed, what the priorities are and which trade-offs are worth making. 
 
-Narrative can also used as a weapon against cryptocurrencies by external actors who do not wish them to succeed. Nic Carter has a lot of great [commentary](https://medium.com/castle-island-ventures/how-to-critique-bitcoin-a-guide-3e36b26f9642) about the mainstream media's coverage of Bitcoin. I haven't been paying close attention, but it seems to have focused largely on price and the criminality angle, and it is rare to see an accurate description that alludes to its positive aspects.
+Narrative can also used as a weapon against cryptocurrencies by external actors who do not wish them to succeed. Nic Carter has a lot of great [commentary](https://medium.com/castle-island-ventures/how-to-critique-bitcoin-a-guide-3e36b26f9642) about the mainstream media's coverage of Bitcoin. It seems to have focused largely on price and the criminality angle, and it is rare to see any coverage that gives an indication of why so many people are interested in the idea.
 
-Another popular narrative is that cryptocurrencies aren’t backed by anything. They are backed by the belief that they will be around in the future, still available to all and working as intended, reliably following the rules of their social contract.
+Another popular narrative is that cryptocurrencies aren’t backed by anything. Cryptocurrencies are backed by the belief that they will be around in the future, still available to all and working as intended, reliably following the rules of their social contract. The social contract for fixed supply cryptocurrencies states that the supply will decrease over time and eventually there will be no more issuance of new currency. People who expect this scarcity, coupled with increasing demand, to lead to price increasing over time, hold cryptocurrency as somewhere between a speculative asset and a "Store of Value".
 
-The storytellers disseminate their versions of the narrative and social contract the way they see it. They buy into the story and understand that achieving their vision of cryptocurrency's place in the world depends on spreading the word to people who are unaware or ambivalent. Within the ecosystem, the same stories serve to bolster the cohesion of stakeholders around a shared version of the narrative and steer its governance accordingly. 
+The storytellers disseminate their versions of the narrative and social contract the way they see it. They buy into the story and understand that achieving their vision of cryptocurrency's place in the world depends on spreading the word to people who are unaware or ambivalent. Within the ecosystem, the same stories serve to bolster the cohesion of stakeholders around a shared version of the narrative and steer its governance accordingly.
+
+This [article](https://otherinter.net/web3/headless-brands/) published in Oct 2019 considers Bitcoin as a new breed of "Headless Brand", with users having collective responsibility and individual freedom to define the brand. It provides an insightful overview of the decentralization of the branding component a cryptoasset, and considers the implications of commons-based brand production.
 
 ### Narrative Control
 
@@ -44,4 +46,20 @@ On Twitter, where much of the Bitcoin and cryptocurrency debate seems to happen,
 
 Some Bitcoiners have adopted the position that this kind of deviation should be rejected or punished, and offenders should be excluded/blocked or harassed and harangued. The subject of [memetic warfare](https://coinspice.io/news/btc-maximalists-call-for-war-memes-trolling-hoping-to-crush-submit-perceived-enemies/) has been presented at "true" Bitcoin conferences - [How to Meme Bitcoin to the Moon](http://diyhpl.us/wiki/transcripts/bit-block-boom/2019/how-to-meme-bitcoin-to-the-moon/).
 
-When governance is informal it is difficult to draw a boundary around it, it permeates every facet of the ecosystem. When different factions form supporting different choices, this redraws the contours and boundaries of the commons and turns them into a conflict zone.  
+When governance is informal it is difficult to draw a boundary around it, it permeates every facet of the ecosystem. When different factions form supporting different choices, this redraws the contours and boundaries of the commons and can turn them into a conflict zone.
+
+### Living on the Crypto Commons
+
+There are now a significant number of people who spend most of their working or free time engaged in some aspect of the blockchain space. There are many people out there who care deeply about some blockchain or cryptocurrency project, to the point where it has become a significant part of their identity.
+
+Nic Carter has described Bitcoiners as [peaceful revolutionaries](https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e), and there are no doubt many who see themselves as such. Some people just want the number to go up so they become more wealthy, some (also) want to see a particular vision of global Bitcoin adoption come to pass, or have ambitions for how it will reshape some aspect of the economy or broader society. The prevailing attitude is one of looking at some broken aspect of society (like money), and asking whether it's possible to build an alternative that's better, or which can compete with the "legacy" system. 
+
+To the extent that there is a cohesive "cryptocurrency movement", it is about giving people an alternative, so that they can opt out or route around some problematic issue, like a devaluing national currency or strict capital controls, or refusal for a bank account.
+
+There are many opportunities on this new frontier, there is a lot to be done and there is considerable support (moral and financial) available for the doers. Contributing may mean anything from writing code to providing services to raising awareness of Bitcoin in a particular context.
+
+There is a large and growing number of people who are committed (idealistically and/or financially) to realizing some vision of the crypto commons. To the extent that their visions overlap, they are dedicated to a common cause. On a good day, they recognize and appreciate the others who share this common cause and contribute in a valuable way to realizing their shared objectives. 
+
+On a bad day, the proponents of one cryptocurrency may attack projects seen as competitors, and revel in their struggles. There is an element of tribalism to the way that some cryptocurrency proponents and fans contribute to the discourse. 
+
+Cryptocurrency projects are all competing with each other across a wide variety of aspects, they can't all succeed in relation to their adoption objectives. One's desire to see the general movement progress may conflict with a strong preference that one/some asset(s) out-perform their competitors. 

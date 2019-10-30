@@ -7,6 +7,7 @@ description: "Commons based organizations and tools to build them"
 weight: 310
 ---
 
+![](/daos.jpg)
 
 The concept of a Decentralized Autonomous Organization (DAO) describes an organization which conducts aspects of its decision-making and the execution of those decisions on the crypto commons. A DAO that is effectively decentralized should limit the degree to which the organization relies on specific individuals arranged in a hierarchy, and could derive robustness to various weaknesses or forms of attack from this.
 

@@ -6,8 +6,7 @@ draft: false
 description: ""
 weight: 330
 ---
-
-
+![](/blankdao.jpg)
 
 > BlankDAO is a social organization with an aim to break blockchain barriers on the road of decentralization by relying on real people instead of  miners.
 > BlankDAO is Currently an Aragon DAO
