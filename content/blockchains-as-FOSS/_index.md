@@ -5,7 +5,7 @@ draft: false
 weight: 70
 description: ""
 ---
-
+![](/blockchains-as-foss.jpg)
 
 Blockchains and cryptocurrencies could not exist without open-source software. Blockchains rely on the principle that anyone can determine the current state of the distributed ledger themselves from first principles. This requires total confidence that the software which reads the ledger and broadcasts transactions is working as described. Malicious or exploitable cryptocurrency wallet software puts all of the user's assets stored in the wallet at risk.
 

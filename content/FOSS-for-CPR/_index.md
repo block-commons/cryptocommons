@@ -4,7 +4,7 @@ date: 2019-09-10T15:26:15Z
 draft: false
 weight: 100
 ---
-
+![](/foss-for-cpr.jpg)
 
 With the coordinated participation of a number of constituencies, blockchain FOSS can become the backbone of a powerful network that can transmit information and value globally in a way which is resistant to censorship, corruption, and subjugation.
 

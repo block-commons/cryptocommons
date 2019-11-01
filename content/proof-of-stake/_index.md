@@ -1,10 +1,10 @@
 ---
-title: "Proof of Stake consensus"
+title: "Proof of Stake Consensus"
 date: 2019-09-10T15:26:15Z
 draft: false
 weight: 200
 ---
-
+![](/proof-of-stake.jpg)
 
 One of Bitcoin's key innovations was to use Proof of Work consensus to allow the processing of transactions to be permissionless - needing only an honest majority of mining power and the right incentives to ensure that the network would behave as intended in adversarial conditions.
 
@@ -22,6 +22,8 @@ Cons:
 * Incentivized pure PoS has an inherent "rich get richer" dynamic, because the participants who hold the asset already are the only actors who can benefit from the rewards. The low cost to participate reduces pressure to sell these rewards. The net result is that PoS participants increase their share of the asset while holders who do not participate in PoS pay the cost of being diluted. This could be construed as a kind of rent seeking arrangement, or a form of feudalism. 
 
 PoS changes the infrastructure surrounding the common pool resource significantly, removing the miner constituency entirely and giving holders of the cryptocurrency a much larger role. In practice, holding the asset is usually just a qualification to participate in PoS, with the PoS constituency actually being composed of a subset of holders who choose to participate and take the necessary steps. At minimum, this usually means running a node with a wallet open that can respond when called to participate in block creation. Within some systems, participation in PoS may also involve a security deposit, which could potentially be lost if one is found to have violated the rules (by, for example, participating in more than one chain).
+
+## Delegated Proof of Stake
 
 Delegated Proof of Stake (DPoS) systems are a form of PoS where holders can delegate the staking power of their tokens to other actors. It is common for DPoS systems to have a fixed number of block producing nodes - EOS has 21, Ark 51, Lisk 101. Where the number of Block Producers (BPs) is fixed, the dynamic is similar to a persistent election in which holders vote to elect their preferred Block Producers (BPs). Tezos uses a form of DPoS where the number of BPs is not fixed, but rather there is a minimum stake (roll size) required to be eligible to bake, and more (delegated) stake means being selected to bake more often (although there are soft limits to prevent overly concentrated delegation). 
 

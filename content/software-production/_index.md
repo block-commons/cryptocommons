@@ -6,6 +6,7 @@ weight: 20
 description: ""
 ---
 
+![](/software-production.jpg)
 
 One of the best characterizations of the difference between proprietary and open-source software (OSS) is Eric Raymond's [The Cathedral and the Bazaar](http://www.unterstein.net/su/docs/CathBaz.pdf). This contrasts the top-down coordination of a large centrally planned structure (the proprietary Cathedral) and an open bazaar where people interact freely bringing their contributions and needs (bugs and feature requests) together in a bottom-up process that tends to produce good software.
 

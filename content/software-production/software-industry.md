@@ -5,7 +5,7 @@ draft: false
 weight: 40
 description: ""
 ---
-
+![](/software-industry.jpg)
 
 While intrinsic motivation may be a factor in the behavior of company employees, this cannot be assumed. What can be assumed is that the payment workers receive and the importance of that money to them marginalizes any role for intrinsic motivation. The individual's will is subjugated to that of the corporate hierarchy, at least within certain time periods where the employee is "at work". 
 
@@ -45,7 +45,7 @@ The [Iterative Capital thesis on what's driving the cryptocurrency phenomenon](h
 
 David Graeber's *On the Phenomenon of Bullshit Jobs* (2013 [article](https://strikemag.org/bullshit-jobs) and 2018 book) considers what constitutes a bullshit (pointless) job, how many people think they have one ([~37-40%](https://www.economist.com/open-future/2018/06/29/bullshit-jobs-and-the-yoke-of-managerial-feudalism)), how it affects them and the organizations they work within. The book has a section about FOSS development and describes an interesting pattern of integration between FOSS projects and private for-profit companies that rely on their software. Within these groups, the most desirable and highest status work concerns the software's FOSS core (which is commons-based and often not directly compensated). In contrast, much of the work of the organization's employees is directed to "duct-taping" the integration of this streamlined high-quality FOSS core with the proprietary and technically indebted software which the company relies on to generate revenue. The same individuals may participate in both capacities, working on the core FOSS components in their free time and duct-taping those same components in a production environment during their working day.
 
-Graeber's work also offers an opportunity to take a step back and consider FOSS as just one kind of Commons Based Peer Production, and to infer that many of the same basic mechanisms are at work in the production of other non-rival information goods. 
+Graeber's work also offers an opportunity to take a step back and consider FOSS as just one kind of commons-based peer production, and to infer that many of the same basic mechanisms are at work in the production of other non-rival information goods. 
 
 Graeber makes the case that over the last decades we have witnessed a proliferation of bullshit jobs that serve no purpose within their broader organizational context or externally, and can be actively counter-productive.  Graeber posits that this is closely related to the rise in administrative/managerial positions relative to the rest of the workforce - which can be read as an attempt to maintain productivity through hierarchical control as organizations scale. Within a large organization where sub-domains are relatively opaque to each other, inefficiency or organizational malfunction is more likely to persist or grow for sustained periods as it may go undetected by the entity as a whole. The status quo is always beneficial for some party, and that party often has the influence to maintain it.
 

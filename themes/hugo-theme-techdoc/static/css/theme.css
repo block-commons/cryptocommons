@@ -415,7 +415,7 @@ template {
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Droid Serif Pro, serif, Helvetica, Arial, sans-serif;
   -webkit-font-feature-settings: 'pwid';
   font-feature-settings: 'pwid';
   line-height: 1.9;

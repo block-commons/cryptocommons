@@ -5,10 +5,11 @@ draft: false
 weight: 10
 ---
 
+![CBPP](/commons-based-peer-production.jpg)
 
 Yochai Benkler (2006) wrote about the concept of commons-based peer production in his 2006 book "[The Wealth of Networks - How Social Production Transforms Markets and Freedom](https://cyber.harvard.edu/wealth_of_networks/Download_PDFs_of_the_book)", describing its qualities and potential in some detail.  Commons based peer production (CBPP) is a new model of socioeconomic production in which people work cooperatively on commons-based (publicly accessible) resources. The most well described and significant examples of CBPP are Free and Open Source Software (FOSS) projects, other examples include Wikipedia, OpenStreetMap and The Pirate Bay.
 
-The Internet has dramatically lowered communications costs, and the costs associated with providing information goods. These developments made CBPP possible because they allowed people who shared a common interest to find each other, communicate, share work on a common project, and distribute the product of that work to anyone who wanted it. The low costs associated with communication, production, and distribution meant that there was no need for an organization with capital to take ownership of the projects and run them in a way which would generate revenue.
+The Internet has dramatically lowered communications costs, and the costs associated with providing access to information goods. These developments made CBPP possible because they allowed people who shared a common interest to find each other, communicate, share work on a common project, and distribute the product of that work to anyone who wanted it. The low costs associated with communication, production, and distribution meant that there was no need for an organization with capital to take ownership of the projects and run them in a way which would generate revenue.
 
 With these barriers removed, groups of hobbyists could collaborate on projects that they found interesting or useful - and this mode of production has given us the software that the bulk of the Internet runs on. Nadia Eghbal's [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) provides an excellent account of the importance of FOSS to our digital infrastructure, why there are issues with funding it and what the consequences are.
 

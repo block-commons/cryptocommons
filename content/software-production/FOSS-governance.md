@@ -5,7 +5,7 @@ draft: false
 weight: 60
 description: ""
 ---
-
+![](/foss-governance.jpg)
 
 The defining feature of FOSS governance is the fact that the product is **commons-based and equally accessible to all parties**. There is relatively little friction involved in forking a codebase and taking two versions of a piece of software in different directions. The ownership of Intellectual Property (IP), which determines who is allowed to develop and exploit proprietary software, has only limited significance. In FOSS projects IP considerations are typically limited to the ownership of non-vital assets such as names/trademarks, domains and hosting services (i.e. control of servers and GitHub maintainer accounts).
 

@@ -2,12 +2,12 @@
 title: "Other Ethereum DAOs"
 date: 2019-09-13T23:37:48+01:00
 lastmod: 2019-09-13T23:37:48+01:00
-draft: true
+draft: false
 description: ""
 weight: 370
 ---
 
-"[The DAO](https://en.wikipedia.org/wiki/The_DAO_(organization))" is still for many people a particular initiative that happened on the Ethereum network in 2016. It was mentioned [previously](/development-funding/premine) in the context of the hard fork which occurred in the aftermath of its failure, to erase the damage it did. 
+"[The DAO](https://en.wikipedia.org/wiki/The_DAO_(organization))" is still for many people a particular initiative that happened on the Ethereum network in 2016. It was mentioned [previously](/development-funding/premine) in the context of the hard fork which occurred in the aftermath of its failure, to nullify the damage it did. 
 
 This early attempt at a Decentralized Autonomous Organization almost destroyed the entire Ethereum commons where it was constructed, and in the end split it asunder.
 
@@ -21,7 +21,7 @@ Some Ethereum founders and developers were likely exposed to the DAO's losses pe
 
 This [open access book chapter](https://www.taylorfrancis.com/books/e/9781315211909/chapters/10.4324/9781315211909-8) by Quinn DuPont provides a detailed history and ethnography of the DAO and its aftermath. It draws a stark contrast between the way the DAO's governance was believed to function by participants and how it actually functioned in practice when under stress. 
 
-The Ethereum Foundation released new node software which defaulted to a hard fork upgrade that would undo the DAO. This was adopted by most but not all of the Ethereum ecosystem, with 15% of PoW miners refusing the hard fork and the survival of this chain giving other constituencies (developer, users) a chance to also reject the fork. The chain which persisted with the consensus rules as they were defined became known as Ethereum Classic (ETC) - it lost the right to call itself Ethereum because that trademark was controlled by the Ethereum Foundation. The implications of this for the Ethereum commons have already been considered. 
+The Ethereum Foundation released new node software which defaulted to a hard fork upgrade that would undo the DAO. This was adopted by most but not all of the Ethereum ecosystem, with 15% of PoW miners refusing the hard fork and the survival of this chain giving other constituencies (developers, users) a choice to also reject the fork. The chain which persisted with the consensus rules as they were defined became known as Ethereum Classic (ETC) - it lost the right to call itself Ethereum because that trademark was controlled by the Ethereum Foundation. The implications of this for the Ethereum commons have already been considered. 
 
 The hard fork was effectively a bailout, and the nature of the crypto commons is such that this kind of rollback is always possible if the stronger constituencies within a network are negatively affected. This can act as a kind of defence mechanism too, because an external attacker who wishes to destroy the network cannot be assured that its constituents will not "fork around" them and their attack. This likely helps to discourage attacks which are very costly.
 
@@ -29,4 +29,7 @@ One of the lessons to be learned from the DAO is to be wary of complexity when d
 
 In hindsight, it seems hard to believe that people were willing to entrust so much money to a brand new initiative that was deploying its very first iteration in the wild. Even without the fatal flaws, one wonders how well such an ambitious first attempt at a DAO would have made use of the resources which had been allocated to it. DAOs became less popular for a time after The DAO episode, but in mid-2019 we are witnessing a rapid proliferation of this form. This time around, even the DAOs that have been online for months or years are not being entrusted with more than a few million dollars, and we are yet to see compelling evidence that they will make efficient use of the resources that are allocated to them.
 
-It has recently been announced that we will see an attempt to "resurrect" The DAO. A new [attempt](https://github.com/the-dao/whitepaper) to build a DAO with the same objectives is forthcoming and will perhaps give us the opportunity to see how the concept fares when it doesn't get exploited at launch.
+It has recently been announced that a new [attempt](https://github.com/the-dao/whitepaper) to build a DAO with the same objectives is forthcoming and will perhaps give us the opportunity to see how the concept fares when it doesn't get exploited at launch.
+
+Much of the [excitement](https://medium.com/axialabs/relearning-to-dao-craft-b815b3e3f8ef) around DAOs in mid-2019 is associated with Moloch DAO and its spin-offs. 
+
