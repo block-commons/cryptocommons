@@ -6,7 +6,7 @@ weight: 193
 ---
 ![](/associated-services.jpg)
 
-As with other forms of FOSS, one way to fund development work is to sell some associated services.
+As with other forms of FOSS, one way to fund development work is through provision of services associated with the software.
 
 Blockstream is a company founded in 2014 by a group of Bitcoin developers with a [mission](https://blockstream.com/about/) to "build crypto-financial infrastructure based on Bitcoin".
 
@@ -22,5 +22,5 @@ It is worth noting that Blockstream's efforts to enhance Bitcoin go beyond the C
 
 More recently still (Aug 2019), Blockstream [revealed](https://blockstream.com/2019/08/08/en-mining-launch/) that it had been growing its own PoW mining operation since the issue with PoW miners over SegWit in 2017 (see [here](/governance/bitcoin)). This is quite an interesting development, as it entails a major entity in the developer constituency also becoming a significant player in the mining constituency.
 
-It is this spillover and the degree to which the software is enmeshed in a resource with other important attributes that makes CBPP a useful lens to apply. I will argue below that the path to realizing this technology's potential lies in bringing more of the aspects that give the resource its strength and value "onto the commons".
+It is this spill-over and the degree to which the software is enmeshed in a resource with other important attributes that makes CBPP a useful lens to apply. I will argue below that the path to realizing this technology's potential lies in bringing more of the aspects that give the resource its strength and value "onto the commons".
 

@@ -9,7 +9,7 @@ description: ""
 
 ### Bitcoin scaling debate
 
-The Bitcoin scaling debate which ultimately led to Bitcoin Cash was a long and drawn out affair. This [detailed account](https://hackernoon.com/the-great-bitcoin-scaling-debate-a-timeline-6108081dbada) by Daniel Morgan describes a fundamental disagreement between two factions of Bitcoin developers. One of these factions wanted to pursue the ideal of "peer to peer electronic cash" by increasing the block size limit so that more people could use Bitcoin without fees increasing. The other faction took a hard line on no block size increases, and saw the development of a fee market for block space as essential to Bitcoin's long term survival.
+The Bitcoin scaling debate which ultimately led to Bitcoin Cash was a long and drawn out affair. This [detailed account](https://hackernoon.com/the-great-bitcoin-scaling-debate-a-timeline-6108081dbada) by Daniel Morgan describes a fundamental disagreement between two factions of Bitcoin developers. One of these factions wanted to pursue the ideal of "peer to peer electronic cash" by increasing the block size limit so that more people could use Bitcoin without fees increasing. The other faction opposed block size increases as a way to scale, and saw the development of a fee market for block space as essential to Bitcoin's long term survival.
 
 It is interesting to note that the Bitcoin whitepaper was a key text in this discourse, with the idea of "Satoshi's Vision" acting as a banner to rally supporters of the big block ideals that ultimately found their embodiment in Bitcoin Cash.
 
