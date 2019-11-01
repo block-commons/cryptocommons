@@ -2,7 +2,7 @@
 title: "Donations and Patronage"
 date: 2019-09-10T15:26:15Z
 draft: false
-weight: 193
+weight: 194
 ---
 ![](/donations-and-patronage.jpg)
 

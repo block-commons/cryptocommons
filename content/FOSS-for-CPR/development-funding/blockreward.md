@@ -2,7 +2,7 @@
 title: "Block Reward Funding"
 date: 2019-09-10T15:26:15Z
 draft: false
-weight: 195
+weight: 196
 ---
 ![](/block-reward-funding.jpg)
 
