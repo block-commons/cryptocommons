@@ -2,10 +2,11 @@
 title: "Zcash"
 date: 2019-09-11T20:42:34+01:00
 lastmod: 2019-09-11T20:42:34+01:00
-draft: true
+draft: false
 description: ""
-weight: 80
+weight: 300
 ---
+![](/zcash.jpg)
 
 Zcash relies on pure PoW consensus and is mined by ASICs. Having formerly considered itself "ASIC resistant", it [made no moves](https://cointelegraph.com/news/zcash-exercises-restraint-as-the-antminer-z11-release-approaches) to interfere with the deployment of ASICs on the network and now takes a neutral position towards them.
 
@@ -15,7 +16,7 @@ The ECC (formerly Zcash ECC) took investment before launching Zcash, and the fou
 
 >  How can [such a high-powered team](https://z.cash/team.html) afford to devote years of our lives to this project when everything we’re producing is public, open, and permissionless?
 >
-> [Zooko Wilcox](https://electriccoin.co/blog/funding/)
+> * [Zooko Wilcox](https://electriccoin.co/blog/funding/)
 
 As the focus is on cutting edge cryptography and Zcash is a work in progress, it can be assumed that Zcash ecosystem participants are comfortable with accepting hard fork upgrades as and when they are released by the ECC.
 
@@ -35,9 +36,11 @@ Zooko and other ECC members donated portions of their share of the Founders' Rew
 
 The Founder's reward is 10% of the total ZEC issuance, 2.1 million ZEC - so the Zcash foundation is set to receive 13% of the Founder's Reward in total, over the first four years of the project. When the first halving in block rewards occurs after roughly four years, the Founder's Reward is set to cease, which would cut funding to ECC and the Foundation. All block rewards would go to PoW miners from then on, according to the current consensus rules.
 
+### Whether and How to Replace Block Reward Funding
+
 The attention of the Zcash ecosystem has recently [turned towards sustaining development beyond the duration of the founders' reward](https://finance.yahoo.com/news/zooko-wilcox-gives-zcash-community-154140125.html), with Zooko [expressing support for a continuation of block reward funding](https://medium.com/@zooko_25893/a-personal-letter-about-the-possibility-of-a-new-zcash-dev-fund-f6d30df64392) which incorporated ECC but had a larger role for other organizations. In his capacity as ECC CEO, Zooko has stated that the ECC needs 12 months of runway to function and if no continuation of funding for ECC is established one year before the founder's reward ends, then ECC will have to consider pivoting to other projects which can generate revenue.
 
-The scenario is familiar to other projects whose commons are dominated by a conventional organization. The many ICO funded projects out there received one-time funding, but what they are building will need perpetual maintenance and possibly refinement, if it succeeds. The Zcash funding issue is therefore of particular interest, because it is on the horizon for many other projects with autonomous but time-limited funding.
+The many ICO funded projects each received one-time funding, but what they are building will need perpetual maintenance and possibly refinement, if it succeeds. The Zcash funding issue is therefore of particular interest, because it is on the horizon for many other projects with autonomous but time-limited funding.
 
 Organizations will tend to prioritize their own survival, and in many cases the continued vitality of the common pool resource would seem to depend on this dominant organization's continued leadership. Some of the ICOs took in significant sums which, if managed well could sustain development for some time. There are [indications](https://thenextweb.com/hardfork/2019/07/25/justin-sun-tron-marketing-buffett-lunch-cancelled/) that ICO beneficiaries may not always be acting prudently with these funds.
 
@@ -55,11 +58,15 @@ This saga has already led to a ["friendly fork" called Ycash](https://medium.com
 
 It is worth noting that Zcash ecosystem constituents are no longer entirely reliant on ECC for Zcash node software. The Parity team released a [Rust implementation of the Zcash protocol](https://github.com/paritytech/parity-zcash), [sponsored by the Zcash Foundation](https://www.parity.io/parity-teams-up-with-zcash-foundation-for-parity-zcash-client/). This reduces reliance on the ECC, and adds a degree of redundancy to enforcement of the consensus rules - where one version may be robust to an exploitable weakness in the other version and could serve to raise the alarm that something was amiss. 
 
+### The Electric Coin Company
+
 The ECC is in many ways the official custodian of the Zcash network, bearing great responsibility for the health of the network, and having significant power to amend the rules. One story from Zcash's history is particularly interesting in this regard. In February 2019, a team of ECC developers [announced](https://z.cash/blog/zcash-counterfeiting-vulnerability-successfully-remediated/) that they had identified (11 months previously), and stealthily deployed a fix for, a vulnerability in the underlying cryptography Zcash uses for shielded transactions. If exploited, this would have allowed an attacker to mint new ZEC without being detected. There is no way to know if this exploit was used. The way zero-knowledge proofs are deployed means that it is not possible to audit the full ZEC supply and ensure that it is as expected.
 
 The blog post announcing the fix offered consolation in the likelihood that because this was such a complex exploit to identify only the highly skilled and expert members of the ECC team were likely to have identified it. From this perspective, giving developers with the deepest knowledge of the protocol a financial stake in it is probably a good use of block rewards to pay for security. If the individual who discovered the exploit first was not being rewarded with a steady supply of ZEC, they may have been more likely to consider stealthily minting some ZEC for themselves.
 
-The severity of the threat to ZEC led the ECC members to keep it quiet for 11 months while they sneaked in a change to the consensus rules which would nullify the exploit, into a scheduled hard fork update. ECC was in this case withholding information from the Zcash stakeholders for their own benefit. The fact that nobody outside of the small group identified this change to the consensus rules before it was deployed and announced says something about the degree to which the Zcash commons are entrusted to ECC.
+The severity of the threat to ZEC led the ECC members to keep it quiet for 11 months while they sneaked a change to the consensus rules which would nullify the exploit into a scheduled hard fork update. ECC was in this case withholding information from the Zcash stakeholders for their own benefit. The fact that nobody outside of the small group identified this change to the consensus rules before it was deployed and announced says something about the degree to which the Zcash commons are entrusted to ECC.
+
+### The Zcash Foundation
 
 The Zcash Foundation has a mandate to represent the Zcash stakeholder community, and ample funding. This [blog post](https://www.zfnd.org/blog/governance-results/) from 2018 gives some insight into how the foundation is going about ascertaining the desires of the Zcash stakeholders. Their approach involves selecting up to 200 members of the Zcash community to form a Community Governance Panel. 64 initial CGP participants [voted](https://vote.heliosvoting.org/helios/elections/cdc15aa6-6f75-11e8-b5e0-0e48ec97cebb/view) on a number of ballots at a foundation conference (including a rejection of ASIC resistance), and elected two board representatives to fill vacant seats on the Foundation's board. 
 
@@ -72,3 +79,6 @@ Another issue identified in the early [part](/software-production/FOSS-governanc
 ZF is not happy about this development, [stating](https://www.zfnd.org/blog/zcash-trademark-update/) that their position was very different, and that the news that the 2-of-2 multisig would not happen came as a surprise to them. ZF and other [contributors](https://twitter.com/_prestwich/status/1165390624171986944) to the debate are now suggesting that control of the trademark must be resolved before deliberation on the development fund can proceed. 
 
 Zcash's issues with development funding are a contemporary demonstration of the importance of governance for cryptocurrency networks. At the point where a formal governance process would help to resolve a dispute it can be too late to add one. Forging ahead with "rough consensus" and adding in a new governance process both run the risk of alienating some of the blockchain's constituents.
+
+At time of writing Zcash has yet to detail how the decision about future funding will be made, but according to this [megathread](https://forum.zcashcommunity.com/t/future-of-zcash-dev-funding-megathread-everything-in-one-place/34063/409) it will involve some form of polling and then a 2-of-2 decision from ECC and ZF about which consensus rule change to move forward with, if any. As an external observer, one of the most salient points for me has been how difficult it is to follow the discussion around this subject, as it is divided between a number of different platforms, forum, twitter, blogs/announcements.
+

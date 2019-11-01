@@ -2,13 +2,27 @@
 title: "Governing the Crypto Commons"
 date: 2019-09-10T15:26:15Z
 draft: false
-weight: 60
+weight: 210
 ---
+![](/governing-the-crypto-commons.jpg)
 
+Considering public blockchains as ecosystems surrounding the production of a common pool resource gives us a framework for considering how they are governed, and how well this fits with their intended purpose. The backbone of these networks is FOSS, a commons-based non-rival public good, but the resource the network produces is a rival good, finite and vulnerable to over-exploitation (without a mechanism like transaction fees which regulates access to the common pool resource).
 
-Considering public blockchains as ecosystems surrounding the production of a common pool resource gives us a framework for considering how they are governed, and how well this fits with their intended purpose. The backbone of these networks is FOSS, a commons based non rival public good, but the resource the network produces is a rival good, finite and vulnerable to over-exploitation (without a mechanism like transaction fees which regulates access to the common pool resource).
+The developers who write the core software which objectifies the consensus rules, and the entities that can produce new blocks (PoW miners, block producers), are key constituencies in every project. There are also roles for other constituencies in the ecosystem (e.g. users, merchants, storytellers, layer 2 service providers) to play, with the scale and clout of these constituencies varying significantly between projects. Hard fork governance where participants choose freely whether to adopt a change in the rules leads to chain splits, which introduces the market (via exchanges) as an arbiter of which chain has greater legitimacy or promise. 
 
-The developers who write the core software which objectifies the consensus rules, and the entities that can produce new blocks (PoW miners, block producers, bakers), are key constituencies in every project. There are also roles for other constituencies in the ecosystem (like users, merchants, layer 2 service providers) to play, with the scale and clout of these constituencies varying significantly between projects. Hard fork based governance where participants choose freely whether to adopt a change in the rules leads to chain splits, which introduces the market (via exchanges) as an arbiter of which chain has greater legitimacy or promise. 
+From the commons-based perspective of this resource, the most important question is how much of the decision-making process actually occurs on the commons? Where a blockchain's commons are dominated by a small number of entities like corporations or foundations, governance can be dominated by the non-public interactions within and between these entities.
+
+For the portion of a blockchain's governance that occurs on the commons, the key questions are whether and how this is structured. The default, inherited from FOSS, is unstructured rough consensus. This style of unstructured governance has limitations that become apparent when the scale of the endeavour expands or conflicts arise. Jo Freeman's [The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm) is highly relevant here, it describes the women's liberation movement in the 1970s, which rejected organizational structure in the same way that blockchain ecosystems reject "centralization". The absence of structure in that case served to empower embedded elites within the movement and restrict the influence of new members as well as the accessibility of the movement.
+
+Successful blockchains are powerful in a way that is new to FOSS software projects. Unstructured governance may prove to be a weakness, if it allows elites to capture the governance process with behind the scenes machinations. 
+
+At the same time, structured governance is not guaranteed to be better for blockchains than unstructured governance. Governance which is structured and developed poorly is probably worse than unstructured governance. The structure is also just the starting point, good governance involves norms and practices that grow with and are reinforced by the community, becoming embedded within their culture. 
+
+Commons-based governance of blockchains can happen either "on chain" or "off chain". On chain governance processes benefit from the same assurances as transactions, immutability and permissionless access being particularly relevant for governance. However, on chain governance can add to the size and complexity of the blockchain, as an additional class of data that must be incorporated. 
+
+Dash treasury governance happens largely on chain (submission of proposals, voting on proposals and translating voting outcomes to spending transactions), but the detail of proposals and any discussion around them occurs off chain on other platforms. Decred's consensus rule change governance happens on chain, tickets vote on chain in each block and the results are automatically interpreted and applied by nodes as part of the protocol. Decred also has a significant off chain governance component, with its treasury-related proposals, discussion and voting occurring off chain, although "anchored to" the blockchain in certain ways. 
+
+The design of a governance system for a blockchain on paper is difficult to assess, because the degree of fit with the makeup of the stakeholder community and their shared aims is important.
 
 This section will consider some blockchain projects that are conducting aspects of their decision-making on the commons. It will focus on:
 

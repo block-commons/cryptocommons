@@ -14,12 +14,14 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
+baseurl="/"
+
 [Params]
 
     # Souce Code repository section
     description = "Toward a Commons Based Economy"
     github_repository = "https://github.com/RichardRed0x/ppcc/"
-    version = "0.5"
+    version = "0.8"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
@@ -35,22 +37,27 @@ enableMissingTranslationPlaceholders = false
     # See the format reference https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
 
     # path name excluded from documentation menu
-    menu_exclusion = [ "post", "posts", "blog", "img"]
+    menu_exclusion = [ "post", "posts", "blog", "img", "download"]
 
 
 # Global menu section
 [[menu.main]]
-    name = "Book"
+    name = "Read"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Block Commons"
-    url = "https://www.blockcommons.red"
+    name = "Download"
+    url = "/download/"
     weight = 2
+
+[[menu.main]]
+    name = "Block Commons"
+    url = "http://www.blockcommons.red"
+    weight = 3
 
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/blockcommons"
-    weight = 3
+    weight = 4
 

@@ -1,9 +1,11 @@
 ---
 title: "Intrinsic Motivation and Extrinsic Rewards"
-date: 2017-10-17T15:26:15Z
+date: 2019-08-17T15:26:15Z
 draft: false
-weight: 10
+weight: 30
+description: ""
 ---
+![](/intrinsic-extrinsic.jpg)
 
 One concept from the Psychological literature relevant here is that of **intrinsic motivation**, which means being motivated by some inherent interest in the task and the satisfaction its completion will bring. **Extrinsic motivation** means being motivated by some external and separable outcome (e.g. getting paid). The difference between intrinsic and extrinsic motivation has been demonstrated experimentally ([Deci, 1972](https://selfdeterminationtheory.org/SDT/documents/1972_Deci_JPSP.pdf)) by asking participants to engage in some task like solving puzzles and controlling whether they receive an external reward (they are paid to puzzle) or not. Following the completion of the task, the participant is then ostensibly left to their own devices in the same environment, and observed to see if they continue with the task. Participants who were not rewarded to complete the task tend to spend more time doing it in the subsequent free choice period. This has been interpreted to mean that the extrinsic reward (payment) displaces the intrinsic motivation participants would otherwise have felt (enjoying the puzzles). People who are paid to puzzle feel like they are puzzling because they are getting paid, when the payments stop so does the puzzling.
 
