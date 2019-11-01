@@ -12,3 +12,4 @@ The motivations of the engineers who produce the software the network runs on ar
 
 The centrality of the software to the blockchain means that developers will always tend to have some influence over the course its development takes, but the nature and degree of this influence vary significantly between projects. The sense of being part of the team which is facilitating and steering the course of a blockchain's development is likely a big incentive for participation, irrespective of whether and how that participation is compensated.
 
+[2019-10-31](https://blog.deribit.com/insights/an-analysis-of-developer-funding-in-bitcoin/): An analysis of developer funding in Bitcoin published by Derek Hsue, Su Zhu, Hasu, & Brandon Curtis. This essay makes some of the same points as the following sections, with more detail and focus on Bitcoin's history. 
