@@ -12,10 +12,6 @@ For early developers of a young blockchain project, obtaining some of the underl
 
 Developers who do not depend on any external party for an income are in the strongest position to push the development of a blockchain project in the direction that they see fit. Dependence on an external party for income may mean deferring to that party's judgement about the direction development takes.
 
-The logic of "buy coins at $Y and invest effort to improve network's utility, increase demand for coins and raise their value to $Y x 10" also applies to organizations. Any large holder of a cryptocurrency is incentivized to see its price increase, and in some cases it may make sense to invest additional resources to fund developers' work. 
-
-This scenario has the makings of a tragedy of the commons. As every holder benefits equally from price appreciation, each would prefer that the investment to improve utility came from other holders. Such investment may however have some influence payoff, depending on the relationship between the investor and the developers they fund. 
-
 Blockstream is a company founded in 2014 by a group of Bitcoin developers with a [mission](https://blockstream.com/about/) to "build crypto-financial infrastructure based on Bitcoin".
 
 > Blockstream provides funding for the development of [Bitcoin Core](https://en.wikipedia.org/wiki/Bitcoin_Core), the predominant bitcoin network client software.[[7\]](https://en.wikipedia.org/wiki/Blockstream#cite_note-CoinDesk-7) It also employs a large number of prominent Bitcoin Core developers.[[8\]](https://en.wikipedia.org/wiki/Blockstream#cite_note-:1-8)

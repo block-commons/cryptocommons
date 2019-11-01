@@ -3,7 +3,7 @@ title: "DAOs"
 date: 2019-09-11T20:54:08+01:00
 lastmod: 2019-09-11T20:54:08+01:00
 draft: false
-description: "Commons based organizations and tools to build them"
+description: "Commons-based organizations and tools to build them"
 weight: 310
 ---
 
