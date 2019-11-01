@@ -10,9 +10,11 @@ weight: 1
 
 ## Introduction
 
+This book/resource presents a view of blockchains and cryptocurrencies as [common pool resources](https://en.wikipedia.org/wiki/Common-pool_resource), and as products of [commons-based peer production](https://en.wikipedia.org/wiki/Commons-based_peer_production). These concepts will be introduced, and their relevance to understanding blockchain ecosystems will be explored. 
+
 Free and Open Source Software (FOSS) is behind most of the digital public infrastructure we rely on when we use the internet, and offers compelling alternatives to proprietary software in almost every domain. Commons-based peer production includes FOSS and also other types of information resource that are freely available and produced by their community - including Wikipedia, OpenStreetMap and the Pirate Bay.
 
-This book/resource presents a view of blockchains and cryptocurrencies as [common pool resources](https://en.wikipedia.org/wiki/Common-pool_resource), and as products of [commons-based peer production](https://en.wikipedia.org/wiki/Commons-based_peer_production). These concepts will be introduced, and their relevance to understanding blockchain ecosystems will be explored. The book presents a view of cryptocurrencies as significant new forms of commons-based peer production, that have in some cases managed to overcome the incentives/funding issue which often limits the scale of FOSS volunteer collectives and what they can produce.
+The book presents a view of cryptocurrencies as significant new forms of commons-based peer production, that have in some cases managed to overcome the incentives/funding issue which often limits the scale of FOSS volunteer collectives and what they can produce.
 
 Cryptography strengthens the digital commons by allowing people to build things that are robust to attack. It has opened up a new range of possibilities for the kind of commons-based resources that can be produced, and the ways in which these resources can sustain themselves.
 
@@ -30,13 +32,13 @@ The blockchain itself is a new form of digital commons where the rules are enfor
 
 The first part of this resource introduces the concepts and considers what is familiar and what is different about the cryptocurrency context. A framework is developed which involves profiling the constituencies that make up a blockchain's ecosystem and considering the roles they play and how they interact with each other. 
 
-In [part 2](/governance/) of the resource, this framework is then applied to characterize a number of projects based on observations of their commons. The aim of the second part is to record observations about what is happening on or to the various crypto commons, demonstrating the kind of insights that come from viewing them in terms of constituencies working on a common pool resource.
+In [part 2](/governance/) of the resource, this framework is then applied to characterize a number of projects based on observations of their commons. The aim of the second part is to record observations about what is happening on or to the various crypto commons. These observations demonstrat how to apply the framework and the kind of insights that can be obtained by viewing blockchain communities in terms of constituencies working on a common pool resource.
 
 Decentralized Autonomous Organizations (DAOs) have emerged as an effort to harness the coordination and organizational affordances of blockchains. Towards the end the book considers some examples of DAOs that are being used as part of the governance of cryptocurrency networks, and also some platforms which exist to allow for the creation of DAOs with varied purposes.
 
 This is version 0.8.0 - the first version to be publicly released, and a kind of public beta.
 
-I am planning to develop this resource on an ongoing basis, and will collect updates into releases with release notes that explain what has changed - you can follow the full history of how it develops in the GitHub repository and check release notes to see what has changed between versions.
+I am planning to develop this resource on an ongoing basis, and will collect updates into releases with release notes that explain what has changed. You can follow the full history of how the book develops in the GitHub repository and check release notes to see what has changed between versions.
 
 Feedback and suggestions about subjects to include in the next version are welcome. 
 
