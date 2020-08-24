@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-ENV HUGO_VERSION 0.66.0
+ENV HUGO_VERSION 0.70.0
 
 LABEL description="hugo cryptocommons build"
 LABEL version="1.0"
