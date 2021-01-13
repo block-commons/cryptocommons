@@ -19,3 +19,4 @@ The value of the cryptoasset is important for every network where it is used to 
 Each constituency has its own role to play in an ecosystem which produces this common pool resource and gives it value. Different projects define the boundaries of these constituencies and set up the relations between them in different ways. The way in which the network develops is determined through the interactions within and between these constituencies.
 
 I refer to these sets of stakeholders of a particular type as constituencies, because it is typically the (strength of) consensus or majority opinion within a constituency that matters when considering the effect that constituency has on the project's commons and the direction in which it develops.
+

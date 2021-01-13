@@ -15,11 +15,11 @@ Many participants in FOSS projects work on them part-time and do not need to gen
 
 Some participants and FOSS projects have found ways to generate an income by offering services tangential to the software, such as support with deploying the software or using it.
 
-Red Hat is an [example](https://www.wired.com/2012/03/red-hat/) of a company that managed to generate significant revenue by selling subscription-based support and guarantees about compatibility to businesses that wanted to deploy Linux in their operations. It is, however, a rare example of an organization with this business model reaching a large size ($3.4 billion revenue in 2018).
+Red Hat is an [example](https://www.wired.com/2012/03/red-hat/)[^1] of a company that managed to generate significant revenue by selling subscription-based support and guarantees about compatibility to businesses that wanted to deploy Linux in their operations. It is, however, a rare example of an organization with this business model reaching a large size ($3.4 billion revenue in 2018).
 
 FOSS software development may also be funded by grants from funding bodies or through government spending. The European Commission is decidedly pro-FOSS, having since 2000 a [strategy](https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en#actionplan) for promoting internal use of FOSS and stipulating that software funded by its research and innovation actions should be FOSS wherever possible.
 
-Nadia Eghbal has written an excellent and comprehensive report on "[the unseen labor behind our digital infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure)" which explores the prevalence of open source code in our digital infrastructure. The report paints a picture of freely provided commons-based digital infrastructure that is often not being looked after by its main beneficiaries. 
+Nadia Eghbal has written an excellent and comprehensive report on [the unseen labor behind our digital infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure) [^2] which explores the prevalence of open source code in our digital infrastructure. The report paints a picture of freely provided commons-based digital infrastructure that is often not being looked after by its main beneficiaries. 
 
 Eghbal's report describes several in depth examples of widely used important FOSS which is maintained on a shoestring budget by people who are stretched. The [Heartbleed OpenSSL bug](http://heartbleed.com/) is one well known example, the library used by a majority of https sites had a significant undetected exploit for a number of years. The OpenSSL maintainers were stretched part-time volunteers, and the issue could likely have been avoided with more resources to fund coding and code review.
 
@@ -27,8 +27,17 @@ One of the issues Eghbal identifies is that the people who drive FOSS projects f
 
 Eghbal also notes that the ideology of "Free Libre" Open Source Software is less important to many people who have embraced OSS recently. Adoption of FOSS practices is increasingly based on broader recognition of the practical benefits, without necessarily embracing the more ideological component of software that is "Free Libre".
 
-The disconnect between FOSS utility and funding has been [receiving more attention](https://www.vice.com/en_us/article/43zak3/the-internet-was-built-on-the-free-labor-of-open-source-developers-is-that-sustainable) lately. Initiatives like Formidable's [Sauce program](https://www.formidable.com/blog/2019/sauce-program/) allow employees to bill for work they contribute in their own time to open source projects which are unrelated to the company's own interests. This is a rare example of an organization that gains a lot from FOSS deciding to give something back to support the commons. 
+The disconnect between FOSS utility and funding has been [receiving more attention](https://www.vice.com/en_us/article/43zak3/the-internet-was-built-on-the-free-labor-of-open-source-developers-is-that-sustainable)[^3] lately. Initiatives like Formidable's [Sauce program](https://www.formidable.com/blog/2019/sauce-program/) allow employees to bill for work they contribute in their own time to open source projects which are unrelated to the company's own interests. This is a rare example of an organization that gains a lot from FOSS deciding to give something back to support the commons. 
 
 GitHub has recently launched a [sponsorship scheme](https://github.com/sponsors) through which open source developers can be sponsored, with GitHub matching the sponsorship received by developers in their first year up to a limit of $5,000. This is conceptually similar to [Patreon](https://www.patreon.com/), which also connects content producers with consumers who are willing to fund their work. In the case of GitHub Sponsors, it is woven into a platform which many FOSS contributors already use. These are centralized services, where the operator of the platform acts as a gatekeeper in deciding who can be funded through the platform. 
 
 I will consider the ways in which blockchain projects are funded in a later section, this is arguably where most of the innovation in FOSS funding is taking place.
+
+## References
+
+[^1]: Red Hat Becomes Open Source’s First $1 Billion Baby. (n.d.). *Wired*. Retrieved 22 December 2020, from https://www.wired.com/2012/03/red-hat/
+[^2]:Eghbal, N. (2016). *Roads and bridges: The unseen labor behind our digital infrastructure*. Ford Foundation. https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure
+[^3]:Oberhaus, Daniel. (2019). *The Internet Was Built on the Free Labor of Open Source Developers. Is That Sustainable?*  https://www.vice.com/en/article/43zak3/the-internet-was-built-on-the-free-labor-of-open-source-developers-is-that-sustainable
+
+
+

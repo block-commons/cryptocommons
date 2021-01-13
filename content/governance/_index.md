@@ -12,13 +12,13 @@ The developers who write the core software which objectifies the consensus rules
 
 From the commons-based perspective of this resource, the most important question is how much of the decision-making process actually occurs on the commons? Where a blockchain's commons are dominated by a small number of entities like corporations or foundations, governance can be dominated by the non-public interactions within and between these entities.
 
-For the portion of a blockchain's governance that occurs on the commons, the key questions are whether and how this is structured. The default, inherited from FOSS, is unstructured rough consensus. This style of unstructured governance has limitations that become apparent when the scale of the endeavour expands or conflicts arise. Jo Freeman's [The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm) is highly relevant here, it describes the women's liberation movement in the 1970s, which rejected organizational structure in the same way that blockchain ecosystems reject "centralization". The absence of structure in that case served to empower embedded elites within the movement and restrict the influence of new members as well as the accessibility of the movement.
+For the portion of a blockchain's governance that occurs on the commons, the key questions are whether and how this is structured. The default, inherited from FOSS, is unstructured rough consensus. This style of unstructured governance has limitations that become apparent when the scale of the endeavour expands or conflicts arise. Jo Freeman's [The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm) [^1] is highly relevant here, it describes the women's liberation movement in the 1970s, which rejected organizational structure in the same way that blockchain ecosystems reject "centralization". The absence of structure in that case served to empower embedded elites within the movement and restrict the influence of new members as well as the accessibility of the movement.
 
 Successful blockchains are powerful in a way that is new to FOSS software projects. Unstructured governance may prove to be a weakness, if it allows elites to capture the governance process with behind the scenes machinations. 
 
 At the same time, structured governance is not guaranteed to be better for blockchains than unstructured governance. Governance which is structured and developed poorly is probably worse than unstructured governance. The structure is also just the starting point, good governance involves norms and practices that grow with and are reinforced by the community, becoming embedded within their culture. 
 
-Commons-based governance of blockchains can happen either "on chain" or "off chain". On chain governance processes benefit from the same assurances as transactions, immutability and permissionless access being particularly relevant for governance. However, on chain governance can add to the size and complexity of the blockchain, as an additional class of data that must be incorporated. 
+Commons-based governance of blockchains can happen either "on chain" or "off chain". On chain governance benefits from the same assurances as transactions, immutability and permissionless access being particularly relevant for governance. However, on chain governance can add to the size and complexity of the blockchain, as an additional class of data that must be incorporated. 
 
 Dash treasury governance happens largely on chain (submission of proposals, voting on proposals and translating voting outcomes to spending transactions), but the detail of proposals and any discussion around them occurs off chain on other platforms. Decred's consensus rule change governance happens on chain, tickets vote on chain in each block and the results are automatically interpreted and applied by nodes as part of the protocol. Decred also has a significant off chain governance component, with its treasury-related proposals, discussion and voting occurring off chain, although "anchored to" the blockchain in certain ways. 
 
@@ -38,9 +38,9 @@ Key considerations:
 * which aspects of governance happen on chain? where do the other aspects happen?
 * how have the blockchain's native assets, or whatever confers voting rights, been distributed, and (how) do they continue to be distributed? 
 
-This commons lens has been applied to a number of projects, and the salient points for each project are described on that project's page. It is my intention to apply this lens to every significant project which is at least attempting to expose its governance on the commons, and to build up a resource which answers key questions about these projects in a standardized way.
+This commons lens has been applied to a number of projects, and the salient points for each project are described on that project's page. It is my intention to apply this lens to every significant project which is at least attempting to expose its governance on the commons, and to build up a resource which answers key questions about these projects in a standardized way. The "[Crypto Governance Research Project](https://blockcommons.red/crypto-governance-research/overviews/)" collects these standard overviews in one place, while the pages about the same projects below in *PPCC* are more about the broader takeaways that we can learn from observing the project.
 
-Before that, I will set the scene by summarizing aspects of [Nic Carter's excellent masters dissertation](https://coinmetrics.io/papers/dissertation.pdf), which reviewed the top 50 projects on a number of dimensions in 2017. 53% of these projects held an ICO, 13% were exclusively PoW mined, 11% held an Airdrop, 9% originated as a hardfork derivative of an existing chain and 4% conducted a premine.
+Before that, I will set the scene by summarizing aspects of [Nic Carter's excellent masters dissertation](https://coinmetrics.io/papers/dissertation.pdf) [^2], which reviewed the top 50 projects on a number of dimensions in 2017. 53% of these projects held an ICO, 13% were exclusively PoW mined, 11% held an Airdrop, 9% originated as a hardfork derivative of an existing chain and 4% conducted a premine.
 
 67% of these projects had a token reserve to fund development (ICO funds in many cases) , 10% had community bounties, 8% had corporate funding, 6% had a percentage of the block reward. 
 
@@ -59,3 +59,9 @@ Decentralization is lauded as the supreme feature of public blockchains, but for
 * to say that a project is "not decentralized" is usually perceived as an attack on that project
 * where the major players are centralized and opaque entities, there is little of interest for an outsider to observe
 * the attitudes and behaviors of participants in the ecosystem matter, to the extent that their constituencies have power - so any planned approach to governance which is not yet in effect has significant unknowns.
+
+## References
+
+[^1]: Freeman, J. (1972). *The Tyranny of Stuctureless*. https://www.jofreeman.com/joreen/tyranny.htm
+[^2]: Carter, N. (2017) *A Cross-Sectional Overview of Cryptoasset Governance and Implications for Investors*. (2017). [/paper/A-Cross-Sectional-Overview-of-Cryptoasset-and-for/deef64a04ae62d307e0dcc87c7f20fa775617cf2](https://doi.org//paper/A-Cross-Sectional-Overview-of-Cryptoasset-and-for/deef64a04ae62d307e0dcc87c7f20fa775617cf2)
+

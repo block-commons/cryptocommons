@@ -7,9 +7,9 @@ description: ""
 ---
 ![](/blockchains-as-foss.jpg)
 
-Blockchains and cryptocurrencies could not exist without open-source software. Blockchains rely on the principle that anyone can determine the current state of the distributed ledger themselves from first principles. This requires total confidence that the software which reads the ledger and broadcasts transactions is working as described. Malicious or exploitable cryptocurrency wallet software puts all of the user's assets stored in the wallet at risk.
+Blockchains and cryptocurrencies could not exist without Open Source software. Blockchains rely on the principle that anyone can determine the current state of the distributed ledger themselves from first principles. This requires total confidence that the software which reads the ledger and broadcasts transactions is working as described. Malicious or exploitable cryptocurrency wallet software puts all of the user's assets stored in the wallet at risk.
 
-Open-source software is preferred in most use cases involving cryptography and encryption. Many eyes on the source code increases the chances that flaws will be discovered, giving more weight to the absence of known exploits. Conducting development work on the open commons also means it should be harder for the entity controlling the releases of the software to include backdoors which allow them to target specific users.
+Open Source software is preferred in most use cases involving cryptography and encryption. Many eyes on the source code increases the chances that flaws will be discovered, giving more weight to the absence of known exploits. Conducting development work on the open commons also means it should be harder for the entity controlling the releases of the software to include backdoors which allow them to target specific users.
 
 FOSS fits with cryptocurrency and any other domain where trust is important. With proprietary software, trust can only be placed in the entity which produces the software. With FOSS, trust in the software itself can be cultivated. OSS doesn't automatically mean free of exploits or backdoors, but it means that over time those exploits or backdoors are more likely to be identified publicly, because they can be identified by anyone (not just employees with access to the source code).  
 

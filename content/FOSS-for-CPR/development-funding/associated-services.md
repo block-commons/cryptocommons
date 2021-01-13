@@ -10,9 +10,9 @@ As with other forms of FOSS, one way to fund development work is through provisi
 
 Blockstream is a company founded in 2014 by a group of Bitcoin developers with a [mission](https://blockstream.com/about/) to "build crypto-financial infrastructure based on Bitcoin".
 
-> Blockstream provides funding for the development of [Bitcoin Core](https://en.wikipedia.org/wiki/Bitcoin_Core), the predominant bitcoin network client software.[[7\]](https://en.wikipedia.org/wiki/Blockstream#cite_note-CoinDesk-7) It also employs a large number of prominent Bitcoin Core developers.[[8\]](https://en.wikipedia.org/wiki/Blockstream#cite_note-:1-8)
+> Blockstream provides funding for the development of Bitcoin Core, the predominant bitcoin network client software. It also employs a large number of prominent Bitcoin Core developers.
 >
-> The company has raised $76M to date from investors, including venture capital firms [Horizons Ventures](https://en.wikipedia.org/wiki/Horizons_Ventures) and Mosaic Ventures. [[9\]](https://en.wikipedia.org/wiki/Blockstream#cite_note-mosa_OurI-9)[[10\]](https://en.wikipedia.org/wiki/Blockstream#cite_note-10)[[11\]](https://en.wikipedia.org/wiki/Blockstream#cite_note-11) - [Wikipedia](https://en.wikipedia.org/wiki/Blockstream), 05/26/19
+> The company has raised $76M to date from investors, including venture capital firms Horizons Ventures and Mosaic Ventures. - [Wikipedia](https://en.wikipedia.org/wiki/Blockstream), 05/26/19
 
 Blockstream's business model is in some ways similar to the software as a service model of companies like RedHat. Blockstream develops the open source software (Bitcoin Core in this case) alongside services which rely on that software and which generate revenue for the company. Where Blockstream is different is that the services it provides rely on the Bitcoin network, not directly on the software but on the common pool resource that software is used to create. If Blockstream needs Bitcoin to do something new or differently to improve its service, it does not have the same unilateral power to push that change that a company like RedHat has. What Blockstream does have are some seats at the table in discussions about how the Bitcoin Core software should be further developed, in the form of the contributors it employs. 
 

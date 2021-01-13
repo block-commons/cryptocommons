@@ -10,7 +10,7 @@ weight: 250
 
 ### Rough Consensus Hard Forks
 
-Monero is a privacy-focused PoW cryptocurrency with rough consensus governance that makes regular hard fork upgrades. These hard fork upgrades include technical advances (like [bulletproofs](https://www.ccn.com/monero-forks-bulletproofs-integration-kicks-off-new-era-of-privacy-speed/), which decrease the on chain footprint of transactions) and also changes to the hashing function. 
+Monero is a privacy-focused PoW cryptocurrency with rough consensus governance that makes regular hard fork upgrades. These hard fork upgrades include technical advances (like [bulletproofs](https://www.coindesk.com/monero-to-become-first-billion-dollar-crypto-to-implement-bulletproofs-tech) [^1], which decrease the on chain footprint of transactions) and also changes to the hashing function. 
 
 The changes to the hashing function are made in pursuit of "ASIC resistance". When there is evidence which suggests that ASICs are active on the network, the hashing function is altered to make those ASICs incompatible. The Monero community is committed to the ideal that users of the network should be able to mine XMR, and see reliance on specialized hardware as a weakness. Conversely, there are sound arguments (see [PoW miners section](foss-for-cpr/commons-constituencies/miners)) that this will result in weaker security because of the much larger pool of potential hashrate that could be deployed to attack Monero.
 
@@ -35,3 +35,8 @@ The Electric Coin Company, which founded Zcash and is receiving a significant pr
 Income security or reliability is likely an important component of a software developer's decision-making about whether to spend some of their working time, and how much, on commons-based resources. Zcash has a stronger offer in terms of funding security, and probably also larger amounts available to individuals. On the other hand, Monero developers are more directly engaged with and supported by the broader ecosystem, and this is likely to enhance their intrinsic motivation.
 
 Software engineering is typically not a domain where it is productive to try and boost progress with an influx of capital and new hires. "[The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)" is a well known book which describes the phenomenon whereby adding extra staff to a software project can actually slow it down, due to the costs associated with productively onboarding new members to a team. It is desirable to attract and retain committed engineers. The amount of funding available matters, but so too do the working conditions and perceived security of the income source.
+
+## References
+
+[^1]: O’Leary, R.-R. (2018, October 17). *Monero to Become First Billion-Dollar Crypto to Implement ‘Bulletproofs’ Tech*. CoinDesk. https://www.coindesk.com/monero-to-become-first-billion-dollar-crypto-to-implement-bulletproofs-tech
+

@@ -24,10 +24,16 @@ BCH forked off the Bitcoin chain in August 2017, as an attempt to resolve some l
 
 SegWit was added as a "soft fork", it established new rules to make a new type of transaction possible. Nodes following the old rules do not reject blocks with SegWit transactions because they don't break Bitcoin's consensus rules. However, nodes that do not update will not be able to properly interpret SegWit transactions because they rely on additional rules being enforced. Soft forks only require miners to adopt the new software for the amended consensus rules to take effect for all network participants.
 
-Chain splits and the different types of blockchain forks can be difficult to wrap one's head around - an article I wrote in 2018 contains a [high level overview](https://blockcommons.org/post/user-perspective/#4-soft-forks-hard-forks-chain-splits-and-free-coins) (following a more basic introduction to concepts like PoW). [Here](https://www.coindesk.com/short-guide-bitcoin-forks-explained)'s another article introducing the differences from Coindesk.
+Chain splits and the different types of blockchain forks can be difficult to wrap one's head around - an article I wrote in 2018 contains a [high level overview](https://blockcommons.org/post/user-perspective/#4-soft-forks-hard-forks-chain-splits-and-free-coins)[^1] (following a more basic introduction to concepts like PoW). [Here](https://www.coindesk.com/short-guide-bitcoin-forks-explained)'s another article introducing the differences from Coindesk[^2].
 
 Bitcoin has for many years adopted a "no hard forks" approach to upgrades that change the consensus rules. A hard fork is one which changes the consensus rules in such a way that nodes running the previous version of the software will not recognize new blocks as valid. This would pose a particular challenge for Bitcoin. As there are many nodes and they have no established way of coordinating a hard fork upgrade, it would be difficult for Bitcoin to deploy a hard fork upgrade without leaving some participants behind on a network following the old rules.
 
 A soft fork upgrade changes the consensus rules by making them more restrictive in some way, these only require the support of a supermajority of miners to be successfully deployed. Nodes that do not upgrade will not be forked off the network, although they may fail to follow the current state of the ledger in some respects. 
 
-"No hard forks" has implications for technical debt, as it restricts the options available to developers who wish to upgrade the network. In effect, Bitcoin developers must maintain backward compatibility with software from 2010 (see [here](https://blog.bitmex.com/bitcoins-consensus-forks/) for a list of Bitcoin consensus forks).
+"No hard forks" has implications for technical debt, as it restricts the options available to developers who wish to upgrade the network. In effect, Bitcoin developers must maintain backward compatibility with software from 2010 (see [here](https://blog.bitmex.com/bitcoins-consensus-forks/)[^3] for a list of Bitcoin consensus forks).
+
+## References
+
+[^1]: Red, R. (2018, April 11). *Ch. 4 Soft forks, hard forks, chain splits and free coins!* in*A User Perspective and Introduction to Blockchain Governance*. Block Commons. https://www.blockcommons.red/post/user-perspective/
+[^2]: Castor, A. (2017, March 27). *A Short Guide to Bitcoin Forks*. CoinDesk. https://www.coindesk.com/short-guide-bitcoin-forks-explained
+[^3]: BitMex Research (December 2017). *A complete history of Bitcoin’s consensus forks | BitMEX Blog*. https://blog.bitmex.com/bitcoins-consensus-forks/
